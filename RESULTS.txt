@@ -3,118 +3,118 @@ START TEST RESULTS
 ****************************************************************************************
 BASE BET:  30, FLOW BET FACTORS
 ****************************************************************************************
-Base Bet:  30, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 1.96213e+6, Money -: -1.95362e+6, Money Total: 8515.5
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 84402, Money -: -90480, Money Total: -6078
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 103883, Money -: -110775, Money Total: -6892.5
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 117774, Money -: -135000, Money Total: -17226
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 188568, Money -: -195480, Money Total: -6912
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 274104, Money -: -281880, Money Total: -7776
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 513000, Money -: -474000, Money Total: 39000
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 680400, Money -: -666000, Money Total: 14400
+Base Bet:  30, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 180000, Money -: 180000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 2.13458e+6, Money -: -2.26221e+6, Money Total: -127631
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 78381, Money -: -90900, Money Total: -12519
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 96862.5, Money -: -119550, Money Total: -22687.5
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 133002, Money -: -139140, Money Total: -6138
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 189540, Money -: -206820, Money Total: -17280
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 281394, Money -: -307800, Money Total: -26406
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 496800, Money -: -588000, Money Total: -91200
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 858600, Money -: -810000, Money Total: 48600
 
-Base Bet:  30, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 18000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 1.47461e+6, Money -: -1.08849e+6, Money Total: 386115
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 100899, Money -: -89220, Money Total: 11679
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 112320, Money -: -98250, Money Total: 14070
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 115668, Money -: -107280, Money Total: 8388
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 160380, Money -: -143640, Money Total: 16740
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 234738, Money -: -170100, Money Total: 64638
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 361800, Money -: -228000, Money Total: 133800
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 388800, Money -: -252000, Money Total: 136800
+Base Bet:  30, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 198000, Money -: 162000, Total Money: 18000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 1.6462e+6, Money -: -1.44719e+6, Money Total: 199019
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 93933, Money -: -90150, Money Total: 3783
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 107663, Money -: -105675, Money Total: 1987.5
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 127170, Money -: -112320, Money Total: 14850
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 159894, Money -: -159300, Money Total: 594
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 244944, Money -: -205740, Money Total: 39204
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 378000, Money -: -342000, Money Total: 36000
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 534600, Money -: -432000, Money Total: 102600
 
-Base Bet:  30, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 36000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 1.06473e+6, Money -: -709680, Money Total: 355052
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 120447, Money -: -85950, Money Total: 34497
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 117383, Money -: -84450, Money Total: 32932.5
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 113076, Money -: -77040, Money Total: 36036
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 123930, Money -: -93420, Money Total: 30510
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 163296, Money -: -98820, Money Total: 64476
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 216000, Money -: -126000, Money Total: 90000
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 210600, Money -: -144000, Money Total: 66600
+Base Bet:  30, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 216000, Money -: 144000, Total Money: 36000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 1.18448e+6, Money -: -883725, Money Total: 300752
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 111564, Money -: -88590, Money Total: 22974
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 117113, Money -: -91275, Money Total: 25837.5
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 123768, Money -: -81540, Money Total: 42228
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 128304, Money -: -102060, Money Total: 26244
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 169128, Money -: -118260, Money Total: 50868
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 226800, Money -: -186000, Money Total: 40800
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 307800, Money -: -216000, Money Total: 91800
 
-Base Bet:  30, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 54000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 850406, Money -: -482295, Money Total: 368111
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 140481, Money -: -80760, Money Total: 59721
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 118193, Money -: -70575, Money Total: 47617.5
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 101898, Money -: -56160, Money Total: 45738
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 98658, Money -: -58860, Money Total: 39798
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 104976, Money -: -59940, Money Total: 45036
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 124200, Money -: -84000, Money Total: 40200
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 162000, Money -: -72000, Money Total: 90000
+Base Bet:  30, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 234000, Money -: 126000, Total Money: 54000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 848637, Money -: -645030, Money Total: 203607
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 133461, Money -: -83190, Money Total: 50271
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 119880, Money -: -74700, Money Total: 45180
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 107082, Money -: -60300, Money Total: 46782
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 104490, Money -: -64800, Money Total: 39690
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 113724, Money -: -68040, Money Total: 45684
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 124200, Money -: -114000, Money Total: 10200
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 145800, Money -: -180000, Money Total: -34200
 
-Base Bet:  30, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 72000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 629397, Money -: -325320, Money Total: 304077
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 162432, Money -: -74700, Money Total: 87732
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 119745, Money -: -53700, Money Total: 66045
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 84888, Money -: -34560, Money Total: 50328
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 60264, Money -: -36720, Money Total: 23544
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 67068, Money -: -35640, Money Total: 31428
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 86400, Money -: -36000, Money Total: 50400
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 48600, Money -: -54000, Money Total: -5400
+Base Bet:  30, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 252000, Money -: 108000, Total Money: 72000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 693657, Money -: -364995, Money Total: 328662
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 155331, Money -: -77220, Money Total: 78111
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 121770, Money -: -57675, Money Total: 64095
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 87642, Money -: -41040, Money Total: 46602
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 76788, Money -: -37800, Money Total: 38988
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 68526, Money -: -37260, Money Total: 31266
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 70200, Money -: -60000, Money Total: 10200
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 113400, Money -: -54000, Money Total: 59400
 
-Base Bet:  30, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 90000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 513986, Money -: -196170, Money Total: 317816
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 184680, Money -: -67350, Money Total: 117330
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 116708, Money -: -38700, Money Total: 78007.5
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 66420, Money -: -19080, Money Total: 47340
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 36450, Money -: -16740, Money Total: 19710
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 23328, Money -: -24300, Money Total: -972
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 70200, Money -: -12000, Money Total: 58200
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 16200, Money -: -18000, Money Total: -1800
+Base Bet:  30, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 270000, Money -: 90000, Total Money: 90000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 524421, Money -: -180465, Money Total: 343956
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 179901, Money -: -68790, Money Total: 111111
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 117180, Money -: -41775, Money Total: 75405
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 66744, Money -: -26100, Money Total: 40644
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 52488, Money -: -19980, Money Total: 32508
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 37908, Money -: -17820, Money Total: 20088
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 54000, Money -: -6000, Money Total: 48000
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 16200, Money -: 0, Money Total: 16200
 
-Base Bet:  30, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 108000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 438764, Money -: -117315, Money Total: 321449
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 207981, Money -: -57840, Money Total: 150141
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 105773, Money -: -27075, Money Total: 78697.5
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 49734, Money -: -9720, Money Total: 40014
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 17496, Money -: -9720, Money Total: 7776
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 14580, Money -: -12960, Money Total: 1620
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 43200, Money -: 0, Money Total: 43200
+Base Bet:  30, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 288000, Money -: 72000, Total Money: 108000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 430137, Money -: -116625, Money Total: 313512
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 205740, Money -: -58530, Money Total: 147210
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 106785, Money -: -27675, Money Total: 79110
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 45522, Money -: -15840, Money Total: 29682
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 34020, Money -: -9720, Money Total: 24300
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 21870, Money -: -4860, Money Total: 17010
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 16200, Money -: 0, Money Total: 16200
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  30, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 126000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 380093, Money -: -71865, Money Total: 308228
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 237195, Money -: -44520, Money Total: 192675
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 85927.5, Money -: -15825, Money Total: 70102.5
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 29646, Money -: -5040, Money Total: 24606
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 10692, Money -: -3240, Money Total: 7452
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 5832, Money -: -3240, Money Total: 2592
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 10800, Money -: 0, Money Total: 10800
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  30, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 144000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 351365, Money -: -41250, Money Total: 310115
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 265761, Money -: -30870, Money Total: 234891
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 63517.5, Money -: -6600, Money Total: 56917.5
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 12798, Money -: -1620, Money Total: 11178
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 3888, Money -: -540, Money Total: 3348
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -1620, Money Total: -1620
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 5400, Money -: 0, Money Total: 5400
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  30, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 162000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 333423, Money -: -18360, Money Total: 315063
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 294273, Money -: -16080, Money Total: 278193
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 34290, Money -: -2100, Money Total: 32190
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 4374, Money -: -180, Money Total: 4194
-Step: 4, Total bets: 1, +: 1, -: 0, Money +: 486, Money -: 0, Money Total: 486
-Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Base Bet:  30, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 306000, Money -: 54000, Total Money: 126000
+Total Bets: 12000, +: 10186, -: 1814, Money +: 373937, Money -: -71895, Money Total: 302042
+Step: 1, Total bets: 10186, +: 8650, -: 1536, Money +: 233550, Money -: -46080, Money Total: 187470
+Step: 2, Total bets: 1536, +: 1295, -: 241, Money +: 87412.5, Money -: -18075, Money Total: 69337.5
+Step: 3, Total bets: 241, +: 207, -: 34, Money +: 33534, Money -: -6120, Money Total: 27414
+Step: 4, Total bets: 34, +: 31, -: 3, Money +: 15066, Money -: -1620, Money Total: 13446
+Step: 5, Total bets: 3, +: 3, -: 0, Money +: 4374, Money -: 0, Money Total: 4374
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  30, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 180000.00
+Base Bet:  30, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 324000, Money -: 36000, Total Money: 144000
+Total Bets: 12000, +: 10803, -: 1197, Money +: 348719, Money -: -42345, Money Total: 306374
+Step: 1, Total bets: 10803, +: 9727, -: 1076, Money +: 262629, Money -: -32280, Money Total: 230349
+Step: 2, Total bets: 1076, +: 961, -: 115, Money +: 64867.5, Money -: -8625, Money Total: 56242.5
+Step: 3, Total bets: 115, +: 110, -: 5, Money +: 17820, Money -: -900, Money Total: 16920
+Step: 4, Total bets: 5, +: 4, -: 1, Money +: 1944, Money -: -540, Money Total: 1404
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 1458, Money -: 0, Money Total: 1458
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  30, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 342000, Money -: 18000, Total Money: 162000
+Total Bets: 12000, +: 11404, -: 596, Money +: 335219, Money -: -20085, Money Total: 315134
+Step: 1, Total bets: 11404, +: 10842, -: 562, Money +: 292734, Money -: -16860, Money Total: 275874
+Step: 2, Total bets: 562, +: 531, -: 31, Money +: 35842.5, Money -: -2325, Money Total: 33517.5
+Step: 3, Total bets: 31, +: 29, -: 2, Money +: 4698, Money -: -360, Money Total: 4338
+Step: 4, Total bets: 2, +: 1, -: 1, Money +: 486, Money -: -540, Money Total: -54
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 1458, Money -: 0, Money Total: 1458
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  30, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 360000, Money -: 0, Total Money: 180000
 Total Bets: 12000, +: 12000, -: 0, Money +: 324000, Money -: 0, Money Total: 324000
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 324000, Money -: 0, Money Total: 324000
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
@@ -127,118 +127,118 @@ Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 ****************************************************************************************
 BASE BET:  30, FIX BET FACTORS
 ****************************************************************************************
-Base Bet:  30, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 1.20028e+6, Money -: -1.21792e+6, Money Total: -17636.9
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 84402, Money -: -90480, Money Total: -6078
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 103883, Money -: -110775, Money Total: -6892.5
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 122681, Money -: -140625, Money Total: -17943.8
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 163688, Money -: -169688, Money Total: -6000
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 198281, Money -: -203906, Money Total: -5625
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 250488, Money -: -231445, Money Total: 19043
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 276855, Money -: -270996, Money Total: 5859.38
+Base Bet:  30, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 180000, Money -: 180000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 1.27382e+6, Money -: -1.37427e+6, Money Total: -100458
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 78381, Money -: -90900, Money Total: -12519
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 96862.5, Money -: -119550, Money Total: -22687.5
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 138544, Money -: -144938, Money Total: -6393.75
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 164531, Money -: -179531, Money Total: -15000
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 203555, Money -: -222656, Money Total: -19101.6
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 242578, Money -: -287109, Money Total: -44531.3
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 349365, Money -: -329590, Money Total: 19775.4
 
-Base Bet:  30, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 18000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 977593, Money -: -760822, Money Total: 216772
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 100899, Money -: -89220, Money Total: 11679
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 112320, Money -: -98250, Money Total: 14070
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 120488, Money -: -111750, Money Total: 8737.5
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 139219, Money -: -124688, Money Total: 14531.3
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 169805, Money -: -123047, Money Total: 46757.8
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 176660, Money -: -111328, Money Total: 65332
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 158203, Money -: -102539, Money Total: 55664.1
+Base Bet:  30, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 198000, Money -: 162000, Total Money: 18000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 1.05215e+6, Money -: -942708, Money Total: 109440
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 93933, Money -: -90150, Money Total: 3783
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 107663, Money -: -105675, Money Total: 1987.5
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 132469, Money -: -117000, Money Total: 15468.8
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 138797, Money -: -138281, Money Total: 515.625
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 177188, Money -: -148828, Money Total: 28359.4
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 184570, Money -: -166992, Money Total: 17578.1
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 217529, Money -: -175781, Money Total: 41748
 
-Base Bet:  30, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 36000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 772482, Money -: -523345, Money Total: 249137
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 120447, Money -: -85950, Money Total: 34497
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 117383, Money -: -84450, Money Total: 32932.5
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 117788, Money -: -80250, Money Total: 37537.5
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 107578, Money -: -81093.8, Money Total: 26484.4
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 118125, Money -: -71484.4, Money Total: 46640.6
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 105469, Money -: -61523.4, Money Total: 43945.3
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 85693.4, Money -: -58593.8, Money Total: 27099.6
+Base Bet:  30, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 216000, Money -: 144000, Total Money: 36000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 827307, Money -: -617654, Money Total: 209653
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 111564, Money -: -88590, Money Total: 22974
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 117113, Money -: -91275, Money Total: 25837.5
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 128925, Money -: -84937.5, Money Total: 43987.5
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 111375, Money -: -88593.8, Money Total: 22781.3
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 122344, Money -: -85546.9, Money Total: 36796.9
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 110742, Money -: -90820.3, Money Total: 19921.9
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 125244, Money -: -87890.6, Money Total: 37353.5
 
-Base Bet:  30, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 54000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 652958, Money -: -374601, Money Total: 278357
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 140481, Money -: -80760, Money Total: 59721
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 118193, Money -: -70575, Money Total: 47617.5
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 106144, Money -: -58500, Money Total: 47643.8
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 85640.6, Money -: -51093.8, Money Total: 34546.9
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 75937.5, Money -: -43359.4, Money Total: 32578.1
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 60644.5, Money -: -41015.6, Money Total: 19628.9
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 65918, Money -: -29296.9, Money Total: 36621.1
+Base Bet:  30, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 234000, Money -: 126000, Total Money: 54000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 657824, Money -: -455078, Money Total: 202747
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 133461, Money -: -83190, Money Total: 50271
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 119880, Money -: -74700, Money Total: 45180
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 111544, Money -: -62812.5, Money Total: 48731.3
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 90703.1, Money -: -56250, Money Total: 34453.1
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 82265.6, Money -: -49218.8, Money Total: 33046.9
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 60644.5, Money -: -55664.1, Money Total: 4980.47
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 59326.2, Money -: -73242.2, Money Total: -13916
 
-Base Bet:  30, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 72000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 533393, Money -: -261607, Money Total: 271786
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 162432, Money -: -74700, Money Total: 87732
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 119745, Money -: -53700, Money Total: 66045
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 88425, Money -: -36000, Money Total: 52425
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 52312.5, Money -: -31875, Money Total: 20437.5
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 48515.6, Money -: -25781.3, Money Total: 22734.4
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 42187.5, Money -: -17578.1, Money Total: 24609.4
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 19775.4, Money -: -21972.7, Money Total: -2197.27
+Base Bet:  30, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 252000, Money -: 108000, Total Money: 72000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 565041, Money -: -288680, Money Total: 276361
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 155331, Money -: -77220, Money Total: 78111
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 121770, Money -: -57675, Money Total: 64095
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 91293.8, Money -: -42750, Money Total: 48543.8
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 66656.3, Money -: -32812.5, Money Total: 33843.8
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 49570.3, Money -: -26953.1, Money Total: 22617.2
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 34277.3, Money -: -29296.9, Money Total: 4980.47
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 46142.6, Money -: -21972.7, Money Total: 24169.9
 
-Base Bet:  30, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 90000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 459960, Money -: -171218, Money Total: 288742
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 184680, Money -: -67350, Money Total: 117330
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 116708, Money -: -38700, Money Total: 78007.5
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 69187.5, Money -: -19875, Money Total: 49312.5
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 31640.6, Money -: -14531.3, Money Total: 17109.4
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 16875, Money -: -17578.1, Money Total: -703.125
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 34277.3, Money -: -5859.38, Money Total: 28418
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 6591.8, Money -: -7324.22, Money Total: -732.422
+Base Bet:  30, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 270000, Money -: 90000, Total Money: 90000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 472549, Money -: -170917, Money Total: 301633
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 179901, Money -: -68790, Money Total: 111111
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 117180, Money -: -41775, Money Total: 75405
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 69525, Money -: -27187.5, Money Total: 42337.5
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 45562.5, Money -: -17343.8, Money Total: 28218.8
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 27421.9, Money -: -12890.6, Money Total: 14531.3
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 26367.2, Money -: -2929.69, Money Total: 23437.5
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 6591.8, Money -: 0, Money Total: 6591.8
 
-Base Bet:  30, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 108000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 412388, Money -: -112853, Money Total: 299535
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 207981, Money -: -57840, Money Total: 150141
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 105773, Money -: -27075, Money Total: 78697.5
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 51806.3, Money -: -10125, Money Total: 41681.3
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 15187.5, Money -: -8437.5, Money Total: 6750
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 10546.9, Money -: -9375, Money Total: 1171.88
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 21093.8, Money -: 0, Money Total: 21093.8
+Base Bet:  30, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 288000, Money -: 72000, Total Money: 108000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 413205, Money -: -114658, Money Total: 298547
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 205740, Money -: -58530, Money Total: 147210
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 106785, Money -: -27675, Money Total: 79110
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 47418.8, Money -: -16500, Money Total: 30918.8
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 29531.3, Money -: -8437.5, Money Total: 21093.8
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 15820.3, Money -: -3515.63, Money Total: 12304.7
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 7910.16, Money -: 0, Money Total: 7910.16
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  30, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 126000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 372777, Money -: -70751.3, Money Total: 302026
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 237195, Money -: -44520, Money Total: 192675
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 85927.5, Money -: -15825, Money Total: 70102.5
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 30881.3, Money -: -5250, Money Total: 25631.3
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 9281.25, Money -: -2812.5, Money Total: 6468.75
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 4218.75, Money -: -2343.75, Money Total: 1875
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 5273.44, Money -: 0, Money Total: 5273.44
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  30, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 144000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 348621, Money -: -40798.1, Money Total: 307823
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 265761, Money -: -30870, Money Total: 234891
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 63517.5, Money -: -6600, Money Total: 56917.5
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 13331.3, Money -: -1687.5, Money Total: 11643.8
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 3375, Money -: -468.75, Money Total: 2906.25
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -1171.88, Money Total: -1171.88
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 2636.72, Money -: 0, Money Total: 2636.72
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  30, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 162000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 333541, Money -: -18367.5, Money Total: 315174
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 294273, Money -: -16080, Money Total: 278193
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 34290, Money -: -2100, Money Total: 32190
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 4556.25, Money -: -187.5, Money Total: 4368.75
-Step: 4, Total bets: 1, +: 1, -: 0, Money +: 421.875, Money -: 0, Money Total: 421.875
-Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Base Bet:  30, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 306000, Money -: 54000, Total Money: 126000
+Total Bets: 12000, +: 10186, -: 1814, Money +: 372136, Money -: -71936.3, Money Total: 300200
+Step: 1, Total bets: 10186, +: 8650, -: 1536, Money +: 233550, Money -: -46080, Money Total: 187470
+Step: 2, Total bets: 1536, +: 1295, -: 241, Money +: 87412.5, Money -: -18075, Money Total: 69337.5
+Step: 3, Total bets: 241, +: 207, -: 34, Money +: 34931.3, Money -: -6375, Money Total: 28556.3
+Step: 4, Total bets: 34, +: 31, -: 3, Money +: 13078.1, Money -: -1406.25, Money Total: 11671.9
+Step: 5, Total bets: 3, +: 3, -: 0, Money +: 3164.06, Money -: 0, Money Total: 3164.06
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  30, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 180000.00
+Base Bet:  30, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 324000, Money -: 36000, Total Money: 144000
+Total Bets: 12000, +: 10803, -: 1197, Money +: 348801, Money -: -42311.3, Money Total: 306490
+Step: 1, Total bets: 10803, +: 9727, -: 1076, Money +: 262629, Money -: -32280, Money Total: 230349
+Step: 2, Total bets: 1076, +: 961, -: 115, Money +: 64867.5, Money -: -8625, Money Total: 56242.5
+Step: 3, Total bets: 115, +: 110, -: 5, Money +: 18562.5, Money -: -937.5, Money Total: 17625
+Step: 4, Total bets: 5, +: 4, -: 1, Money +: 1687.5, Money -: -468.75, Money Total: 1218.75
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 1054.69, Money -: 0, Money Total: 1054.69
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  30, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 342000, Money -: 18000, Total Money: 162000
+Total Bets: 12000, +: 11404, -: 596, Money +: 334947, Money -: -20028.8, Money Total: 314918
+Step: 1, Total bets: 11404, +: 10842, -: 562, Money +: 292734, Money -: -16860, Money Total: 275874
+Step: 2, Total bets: 562, +: 531, -: 31, Money +: 35842.5, Money -: -2325, Money Total: 33517.5
+Step: 3, Total bets: 31, +: 29, -: 2, Money +: 4893.75, Money -: -375, Money Total: 4518.75
+Step: 4, Total bets: 2, +: 1, -: 1, Money +: 421.875, Money -: -468.75, Money Total: -46.875
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 1054.69, Money -: 0, Money Total: 1054.69
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  30, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 360000, Money -: 0, Total Money: 180000
 Total Bets: 12000, +: 12000, -: 0, Money +: 324000, Money -: 0, Money Total: 324000
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 324000, Money -: 0, Money Total: 324000
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
@@ -251,118 +251,118 @@ Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 ****************************************************************************************
 BASE BET:  60, FLOW BET FACTORS
 ****************************************************************************************
-Base Bet:  60, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 3.92426e+6, Money -: -3.90723e+6, Money Total: 17031
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 168804, Money -: -180960, Money Total: -12156
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 207765, Money -: -221550, Money Total: -13785
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 235548, Money -: -270000, Money Total: -34452
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 377136, Money -: -390960, Money Total: -13824
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 548208, Money -: -563760, Money Total: -15552
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 1.026e+6, Money -: -948000, Money Total: 78000
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 1.3608e+6, Money -: -1.332e+6, Money Total: 28800
+Base Bet:  60, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 360000, Money -: 360000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 4.26916e+6, Money -: -4.52442e+6, Money Total: -255261
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 156762, Money -: -181800, Money Total: -25038
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 193725, Money -: -239100, Money Total: -45375
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 266004, Money -: -278280, Money Total: -12276
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 379080, Money -: -413640, Money Total: -34560
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 562788, Money -: -615600, Money Total: -52812
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 993600, Money -: -1.176e+6, Money Total: -182400
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 1.7172e+6, Money -: -1.62e+6, Money Total: 97200
 
-Base Bet:  60, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 36000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 2.94921e+6, Money -: -2.17698e+6, Money Total: 772230
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 201798, Money -: -178440, Money Total: 23358
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 224640, Money -: -196500, Money Total: 28140
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 231336, Money -: -214560, Money Total: 16776
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 320760, Money -: -287280, Money Total: 33480
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 469476, Money -: -340200, Money Total: 129276
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 723600, Money -: -456000, Money Total: 267600
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 777600, Money -: -504000, Money Total: 273600
+Base Bet:  60, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 396000, Money -: 324000, Total Money: 36000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 3.29241e+6, Money -: -2.89437e+6, Money Total: 398037
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 187866, Money -: -180300, Money Total: 7566
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 215325, Money -: -211350, Money Total: 3975
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 254340, Money -: -224640, Money Total: 29700
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 319788, Money -: -318600, Money Total: 1188
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 489888, Money -: -411480, Money Total: 78408
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 756000, Money -: -684000, Money Total: 72000
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 1.0692e+6, Money -: -864000, Money Total: 205200
 
-Base Bet:  60, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 72000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 2.12946e+6, Money -: -1.41936e+6, Money Total: 710103
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 240894, Money -: -171900, Money Total: 68994
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 234765, Money -: -168900, Money Total: 65865
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 226152, Money -: -154080, Money Total: 72072
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 247860, Money -: -186840, Money Total: 61020
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 326592, Money -: -197640, Money Total: 128952
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 432000, Money -: -252000, Money Total: 180000
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 421200, Money -: -288000, Money Total: 133200
+Base Bet:  60, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 432000, Money -: 288000, Total Money: 72000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 2.36895e+6, Money -: -1.76745e+6, Money Total: 601503
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 223128, Money -: -177180, Money Total: 45948
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 234225, Money -: -182550, Money Total: 51675
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 247536, Money -: -163080, Money Total: 84456
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 256608, Money -: -204120, Money Total: 52488
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 338256, Money -: -236520, Money Total: 101736
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 453600, Money -: -372000, Money Total: 81600
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 615600, Money -: -432000, Money Total: 183600
 
-Base Bet:  60, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 108000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 1.70081e+6, Money -: -964590, Money Total: 736221
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 280962, Money -: -161520, Money Total: 119442
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 236385, Money -: -141150, Money Total: 95235
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 203796, Money -: -112320, Money Total: 91476
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 197316, Money -: -117720, Money Total: 79596
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 209952, Money -: -119880, Money Total: 90072
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 248400, Money -: -168000, Money Total: 80400
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 324000, Money -: -144000, Money Total: 180000
+Base Bet:  60, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 468000, Money -: 252000, Total Money: 108000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 1.69727e+6, Money -: -1.29006e+6, Money Total: 407214
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 266922, Money -: -166380, Money Total: 100542
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 239760, Money -: -149400, Money Total: 90360
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 214164, Money -: -120600, Money Total: 93564
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 208980, Money -: -129600, Money Total: 79380
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 227448, Money -: -136080, Money Total: 91368
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 248400, Money -: -228000, Money Total: 20400
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 291600, Money -: -360000, Money Total: -68400
 
-Base Bet:  60, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 144000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 1.25879e+6, Money -: -650640, Money Total: 608154
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 324864, Money -: -149400, Money Total: 175464
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 239490, Money -: -107400, Money Total: 132090
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 169776, Money -: -69120, Money Total: 100656
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 120528, Money -: -73440, Money Total: 47088
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 134136, Money -: -71280, Money Total: 62856
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 172800, Money -: -72000, Money Total: 100800
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 97200, Money -: -108000, Money Total: -10800
+Base Bet:  60, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 504000, Money -: 216000, Total Money: 144000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 1.38731e+6, Money -: -729990, Money Total: 657324
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 310662, Money -: -154440, Money Total: 156222
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 243540, Money -: -115350, Money Total: 128190
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 175284, Money -: -82080, Money Total: 93204
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 153576, Money -: -75600, Money Total: 77976
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 137052, Money -: -74520, Money Total: 62532
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 140400, Money -: -120000, Money Total: 20400
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 226800, Money -: -108000, Money Total: 118800
 
-Base Bet:  60, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 180000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 1.02797e+6, Money -: -392340, Money Total: 635631
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 369360, Money -: -134700, Money Total: 234660
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 233415, Money -: -77400, Money Total: 156015
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 132840, Money -: -38160, Money Total: 94680
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 72900, Money -: -33480, Money Total: 39420
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 46656, Money -: -48600, Money Total: -1944
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 140400, Money -: -24000, Money Total: 116400
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 32400, Money -: -36000, Money Total: -3600
+Base Bet:  60, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 540000, Money -: 180000, Total Money: 180000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 1.04884e+6, Money -: -360930, Money Total: 687912
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 359802, Money -: -137580, Money Total: 222222
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 234360, Money -: -83550, Money Total: 150810
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 133488, Money -: -52200, Money Total: 81288
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 104976, Money -: -39960, Money Total: 65016
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 75816, Money -: -35640, Money Total: 40176
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 108000, Money -: -12000, Money Total: 96000
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 32400, Money -: 0, Money Total: 32400
 
-Base Bet:  60, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 216000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 877527, Money -: -234630, Money Total: 642897
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 415962, Money -: -115680, Money Total: 300282
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 211545, Money -: -54150, Money Total: 157395
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 99468, Money -: -19440, Money Total: 80028
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 34992, Money -: -19440, Money Total: 15552
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 29160, Money -: -25920, Money Total: 3240
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 86400, Money -: 0, Money Total: 86400
+Base Bet:  60, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 576000, Money -: 144000, Total Money: 216000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 860274, Money -: -233250, Money Total: 627024
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 411480, Money -: -117060, Money Total: 294420
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 213570, Money -: -55350, Money Total: 158220
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 91044, Money -: -31680, Money Total: 59364
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 68040, Money -: -19440, Money Total: 48600
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 43740, Money -: -9720, Money Total: 34020
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 32400, Money -: 0, Money Total: 32400
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  60, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 252000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 760185, Money -: -143730, Money Total: 616455
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 474390, Money -: -89040, Money Total: 385350
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 171855, Money -: -31650, Money Total: 140205
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 59292, Money -: -10080, Money Total: 49212
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 21384, Money -: -6480, Money Total: 14904
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 11664, Money -: -6480, Money Total: 5184
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 21600, Money -: 0, Money Total: 21600
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  60, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 288000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 702729, Money -: -82500, Money Total: 620229
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 531522, Money -: -61740, Money Total: 469782
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 127035, Money -: -13200, Money Total: 113835
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 25596, Money -: -3240, Money Total: 22356
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 7776, Money -: -1080, Money Total: 6696
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -3240, Money Total: -3240
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 10800, Money -: 0, Money Total: 10800
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  60, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 324000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 666846, Money -: -36720, Money Total: 630126
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 588546, Money -: -32160, Money Total: 556386
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 68580, Money -: -4200, Money Total: 64380
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 8748, Money -: -360, Money Total: 8388
-Step: 4, Total bets: 1, +: 1, -: 0, Money +: 972, Money -: 0, Money Total: 972
-Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Base Bet:  60, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 612000, Money -: 108000, Total Money: 252000
+Total Bets: 12000, +: 10186, -: 1814, Money +: 747873, Money -: -143790, Money Total: 604083
+Step: 1, Total bets: 10186, +: 8650, -: 1536, Money +: 467100, Money -: -92160, Money Total: 374940
+Step: 2, Total bets: 1536, +: 1295, -: 241, Money +: 174825, Money -: -36150, Money Total: 138675
+Step: 3, Total bets: 241, +: 207, -: 34, Money +: 67068, Money -: -12240, Money Total: 54828
+Step: 4, Total bets: 34, +: 31, -: 3, Money +: 30132, Money -: -3240, Money Total: 26892
+Step: 5, Total bets: 3, +: 3, -: 0, Money +: 8748, Money -: 0, Money Total: 8748
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  60, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 360000.00
+Base Bet:  60, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 648000, Money -: 72000, Total Money: 288000
+Total Bets: 12000, +: 10803, -: 1197, Money +: 697437, Money -: -84690, Money Total: 612747
+Step: 1, Total bets: 10803, +: 9727, -: 1076, Money +: 525258, Money -: -64560, Money Total: 460698
+Step: 2, Total bets: 1076, +: 961, -: 115, Money +: 129735, Money -: -17250, Money Total: 112485
+Step: 3, Total bets: 115, +: 110, -: 5, Money +: 35640, Money -: -1800, Money Total: 33840
+Step: 4, Total bets: 5, +: 4, -: 1, Money +: 3888, Money -: -1080, Money Total: 2808
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 2916, Money -: 0, Money Total: 2916
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  60, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 684000, Money -: 36000, Total Money: 324000
+Total Bets: 12000, +: 11404, -: 596, Money +: 670437, Money -: -40170, Money Total: 630267
+Step: 1, Total bets: 11404, +: 10842, -: 562, Money +: 585468, Money -: -33720, Money Total: 551748
+Step: 2, Total bets: 562, +: 531, -: 31, Money +: 71685, Money -: -4650, Money Total: 67035
+Step: 3, Total bets: 31, +: 29, -: 2, Money +: 9396, Money -: -720, Money Total: 8676
+Step: 4, Total bets: 2, +: 1, -: 1, Money +: 972, Money -: -1080, Money Total: -108
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 2916, Money -: 0, Money Total: 2916
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  60, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 720000, Money -: 0, Total Money: 360000
 Total Bets: 12000, +: 12000, -: 0, Money +: 648000, Money -: 0, Money Total: 648000
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 648000, Money -: 0, Money Total: 648000
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
@@ -375,118 +375,118 @@ Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 ****************************************************************************************
 BASE BET:  60, FIX BET FACTORS
 ****************************************************************************************
-Base Bet:  60, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 2.40056e+6, Money -: -2.43583e+6, Money Total: -35273.8
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 168804, Money -: -180960, Money Total: -12156
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 207765, Money -: -221550, Money Total: -13785
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 245363, Money -: -281250, Money Total: -35887.5
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 327375, Money -: -339375, Money Total: -12000
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 396563, Money -: -407813, Money Total: -11250
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 500977, Money -: -462891, Money Total: 38085.9
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 553711, Money -: -541992, Money Total: 11718.8
+Base Bet:  60, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 360000, Money -: 360000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 2.54763e+6, Money -: -2.74855e+6, Money Total: -200915
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 156762, Money -: -181800, Money Total: -25038
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 193725, Money -: -239100, Money Total: -45375
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 277088, Money -: -289875, Money Total: -12787.5
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 329063, Money -: -359063, Money Total: -30000
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 407109, Money -: -445313, Money Total: -38203.1
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 485156, Money -: -574219, Money Total: -89062.5
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 698730, Money -: -659180, Money Total: 39550.8
 
-Base Bet:  60, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 36000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 1.95519e+6, Money -: -1.52164e+6, Money Total: 433543
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 201798, Money -: -178440, Money Total: 23358
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 224640, Money -: -196500, Money Total: 28140
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 240975, Money -: -223500, Money Total: 17475
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 278438, Money -: -249375, Money Total: 29062.5
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 339609, Money -: -246094, Money Total: 93515.6
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 353320, Money -: -222656, Money Total: 130664
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 316406, Money -: -205078, Money Total: 111328
+Base Bet:  60, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 396000, Money -: 324000, Total Money: 36000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 2.1043e+6, Money -: -1.88542e+6, Money Total: 218881
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 187866, Money -: -180300, Money Total: 7566
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 215325, Money -: -211350, Money Total: 3975
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 264938, Money -: -234000, Money Total: 30937.5
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 277594, Money -: -276563, Money Total: 1031.25
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 354375, Money -: -297656, Money Total: 56718.8
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 369141, Money -: -333984, Money Total: 35156.3
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 435059, Money -: -351563, Money Total: 83496.1
 
-Base Bet:  60, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 72000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 1.54496e+6, Money -: -1.04669e+6, Money Total: 498274
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 240894, Money -: -171900, Money Total: 68994
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 234765, Money -: -168900, Money Total: 65865
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 235575, Money -: -160500, Money Total: 75075
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 215156, Money -: -162188, Money Total: 52968.8
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 236250, Money -: -142969, Money Total: 93281.3
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 210938, Money -: -123047, Money Total: 87890.6
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 171387, Money -: -117188, Money Total: 54199.2
+Base Bet:  60, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 432000, Money -: 288000, Total Money: 72000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 1.65461e+6, Money -: -1.23531e+6, Money Total: 419305
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 223128, Money -: -177180, Money Total: 45948
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 234225, Money -: -182550, Money Total: 51675
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 257850, Money -: -169875, Money Total: 87975
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 222750, Money -: -177188, Money Total: 45562.5
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 244688, Money -: -171094, Money Total: 73593.8
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 221484, Money -: -181641, Money Total: 39843.8
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 250488, Money -: -175781, Money Total: 74707
 
-Base Bet:  60, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 108000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 1.30592e+6, Money -: -749201, Money Total: 556715
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 280962, Money -: -161520, Money Total: 119442
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 236385, Money -: -141150, Money Total: 95235
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 212288, Money -: -117000, Money Total: 95287.5
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 171281, Money -: -102188, Money Total: 69093.8
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 151875, Money -: -86718.8, Money Total: 65156.3
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 121289, Money -: -82031.3, Money Total: 39257.8
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 131836, Money -: -58593.8, Money Total: 73242.2
+Base Bet:  60, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 468000, Money -: 252000, Total Money: 108000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 1.31565e+6, Money -: -910155, Money Total: 405493
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 266922, Money -: -166380, Money Total: 100542
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 239760, Money -: -149400, Money Total: 90360
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 223088, Money -: -125625, Money Total: 97462.5
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 181406, Money -: -112500, Money Total: 68906.3
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 164531, Money -: -98437.5, Money Total: 66093.8
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 121289, Money -: -111328, Money Total: 9960.94
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 118652, Money -: -146484, Money Total: -27832
 
-Base Bet:  60, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 144000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 1.06679e+6, Money -: -523214, Money Total: 543572
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 324864, Money -: -149400, Money Total: 175464
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 239490, Money -: -107400, Money Total: 132090
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 176850, Money -: -72000, Money Total: 104850
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 104625, Money -: -63750, Money Total: 40875
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 97031.3, Money -: -51562.5, Money Total: 45468.8
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 84375, Money -: -35156.3, Money Total: 49218.8
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 39550.8, Money -: -43945.3, Money Total: -4394.53
+Base Bet:  60, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 504000, Money -: 216000, Total Money: 144000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 1.13008e+6, Money -: -577360, Money Total: 552722
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 310662, Money -: -154440, Money Total: 156222
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 243540, Money -: -115350, Money Total: 128190
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 182588, Money -: -85500, Money Total: 97087.5
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 133313, Money -: -65625, Money Total: 67687.5
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 99140.6, Money -: -53906.3, Money Total: 45234.4
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 68554.7, Money -: -58593.8, Money Total: 9960.94
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 92285.2, Money -: -43945.3, Money Total: 48339.8
 
-Base Bet:  60, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 180000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 919920, Money -: -342436, Money Total: 577484
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 369360, Money -: -134700, Money Total: 234660
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 233415, Money -: -77400, Money Total: 156015
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 138375, Money -: -39750, Money Total: 98625
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 63281.3, Money -: -29062.5, Money Total: 34218.8
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 33750, Money -: -35156.3, Money Total: -1406.25
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 68554.7, Money -: -11718.8, Money Total: 56835.9
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 13183.6, Money -: -14648.4, Money Total: -1464.84
+Base Bet:  60, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 540000, Money -: 180000, Total Money: 180000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 945099, Money -: -341833, Money Total: 603266
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 359802, Money -: -137580, Money Total: 222222
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 234360, Money -: -83550, Money Total: 150810
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 139050, Money -: -54375, Money Total: 84675
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 91125, Money -: -34687.5, Money Total: 56437.5
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 54843.8, Money -: -25781.3, Money Total: 29062.5
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 52734.4, Money -: -5859.38, Money Total: 46875
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 13183.6, Money -: 0, Money Total: 13183.6
 
-Base Bet:  60, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 216000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 824776, Money -: -225705, Money Total: 599071
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 415962, Money -: -115680, Money Total: 300282
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 211545, Money -: -54150, Money Total: 157395
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 103613, Money -: -20250, Money Total: 83362.5
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 30375, Money -: -16875, Money Total: 13500
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 21093.8, Money -: -18750, Money Total: 2343.75
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 42187.5, Money -: 0, Money Total: 42187.5
+Base Bet:  60, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 576000, Money -: 144000, Total Money: 216000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 826411, Money -: -229316, Money Total: 597095
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 411480, Money -: -117060, Money Total: 294420
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 213570, Money -: -55350, Money Total: 158220
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 94837.5, Money -: -33000, Money Total: 61837.5
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 59062.5, Money -: -16875, Money Total: 42187.5
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 31640.6, Money -: -7031.25, Money Total: 24609.4
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 15820.3, Money -: 0, Money Total: 15820.3
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  60, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 252000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 745554, Money -: -141503, Money Total: 604052
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 474390, Money -: -89040, Money Total: 385350
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 171855, Money -: -31650, Money Total: 140205
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 61762.5, Money -: -10500, Money Total: 51262.5
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 18562.5, Money -: -5625, Money Total: 12937.5
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 8437.5, Money -: -4687.5, Money Total: 3750
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 10546.9, Money -: 0, Money Total: 10546.9
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  60, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 288000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 697243, Money -: -81596.3, Money Total: 615647
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 531522, Money -: -61740, Money Total: 469782
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 127035, Money -: -13200, Money Total: 113835
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 26662.5, Money -: -3375, Money Total: 23287.5
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 6750, Money -: -937.5, Money Total: 5812.5
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -2343.75, Money Total: -2343.75
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 5273.44, Money -: 0, Money Total: 5273.44
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet:  60, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 324000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 667082, Money -: -36735, Money Total: 630347
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 588546, Money -: -32160, Money Total: 556386
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 68580, Money -: -4200, Money Total: 64380
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 9112.5, Money -: -375, Money Total: 8737.5
-Step: 4, Total bets: 1, +: 1, -: 0, Money +: 843.75, Money -: 0, Money Total: 843.75
-Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Base Bet:  60, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 612000, Money -: 108000, Total Money: 252000
+Total Bets: 12000, +: 10186, -: 1814, Money +: 744272, Money -: -143873, Money Total: 600399
+Step: 1, Total bets: 10186, +: 8650, -: 1536, Money +: 467100, Money -: -92160, Money Total: 374940
+Step: 2, Total bets: 1536, +: 1295, -: 241, Money +: 174825, Money -: -36150, Money Total: 138675
+Step: 3, Total bets: 241, +: 207, -: 34, Money +: 69862.5, Money -: -12750, Money Total: 57112.5
+Step: 4, Total bets: 34, +: 31, -: 3, Money +: 26156.3, Money -: -2812.5, Money Total: 23343.8
+Step: 5, Total bets: 3, +: 3, -: 0, Money +: 6328.13, Money -: 0, Money Total: 6328.13
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet:  60, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 360000.00
+Base Bet:  60, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 648000, Money -: 72000, Total Money: 288000
+Total Bets: 12000, +: 10803, -: 1197, Money +: 697602, Money -: -84622.5, Money Total: 612980
+Step: 1, Total bets: 10803, +: 9727, -: 1076, Money +: 525258, Money -: -64560, Money Total: 460698
+Step: 2, Total bets: 1076, +: 961, -: 115, Money +: 129735, Money -: -17250, Money Total: 112485
+Step: 3, Total bets: 115, +: 110, -: 5, Money +: 37125, Money -: -1875, Money Total: 35250
+Step: 4, Total bets: 5, +: 4, -: 1, Money +: 3375, Money -: -937.5, Money Total: 2437.5
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 2109.38, Money -: 0, Money Total: 2109.38
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  60, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 684000, Money -: 36000, Total Money: 324000
+Total Bets: 12000, +: 11404, -: 596, Money +: 669894, Money -: -40057.5, Money Total: 629836
+Step: 1, Total bets: 11404, +: 10842, -: 562, Money +: 585468, Money -: -33720, Money Total: 551748
+Step: 2, Total bets: 562, +: 531, -: 31, Money +: 71685, Money -: -4650, Money Total: 67035
+Step: 3, Total bets: 31, +: 29, -: 2, Money +: 9787.5, Money -: -750, Money Total: 9037.5
+Step: 4, Total bets: 2, +: 1, -: 1, Money +: 843.75, Money -: -937.5, Money Total: -93.75
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 2109.38, Money -: 0, Money Total: 2109.38
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet:  60, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 720000, Money -: 0, Total Money: 360000
 Total Bets: 12000, +: 12000, -: 0, Money +: 648000, Money -: 0, Money Total: 648000
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 648000, Money -: 0, Money Total: 648000
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
@@ -499,118 +499,118 @@ Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 ****************************************************************************************
 BASE BET: 100, FLOW BET FACTORS
 ****************************************************************************************
-Base Bet: 100, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 6.54044e+6, Money -: -6.51205e+6, Money Total: 28385
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 281340, Money -: -301600, Money Total: -20260
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 346275, Money -: -369250, Money Total: -22975
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 392580, Money -: -450000, Money Total: -57420
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 628560, Money -: -651600, Money Total: -23040
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 913680, Money -: -939600, Money Total: -25920
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 1.71e+6, Money -: -1.58e+6, Money Total: 130000
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 2.268e+6, Money -: -2.22e+6, Money Total: 48000
+Base Bet: 100, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 600000, Money -: 600000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 7.11527e+6, Money -: -7.5407e+6, Money Total: -425435
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 261270, Money -: -303000, Money Total: -41730
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 322875, Money -: -398500, Money Total: -75625
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 443340, Money -: -463800, Money Total: -20460
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 631800, Money -: -689400, Money Total: -57600
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 937980, Money -: -1.026e+6, Money Total: -88020
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 1.656e+6, Money -: -1.96e+6, Money Total: -304000
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 2.862e+6, Money -: -2.7e+6, Money Total: 162000
 
-Base Bet: 100, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 60000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 4.91535e+6, Money -: -3.6283e+6, Money Total: 1.28705e+6
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 336330, Money -: -297400, Money Total: 38930
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 374400, Money -: -327500, Money Total: 46900
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 385560, Money -: -357600, Money Total: 27960
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 534600, Money -: -478800, Money Total: 55800
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 782460, Money -: -567000, Money Total: 215460
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 1.206e+6, Money -: -760000, Money Total: 446000
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 1.296e+6, Money -: -840000, Money Total: 456000
+Base Bet: 100, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 660000, Money -: 540000, Total Money: 60000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 5.48735e+6, Money -: -4.82395e+6, Money Total: 663395
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 313110, Money -: -300500, Money Total: 12610
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 358875, Money -: -352250, Money Total: 6625
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 423900, Money -: -374400, Money Total: 49500
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 532980, Money -: -531000, Money Total: 1980
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 816480, Money -: -685800, Money Total: 130680
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 1.26e+6, Money -: -1.14e+6, Money Total: 120000
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 1.782e+6, Money -: -1.44e+6, Money Total: 342000
 
-Base Bet: 100, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 120000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 3.54911e+6, Money -: -2.3656e+6, Money Total: 1.18351e+6
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 401490, Money -: -286500, Money Total: 114990
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 391275, Money -: -281500, Money Total: 109775
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 376920, Money -: -256800, Money Total: 120120
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 413100, Money -: -311400, Money Total: 101700
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 544320, Money -: -329400, Money Total: 214920
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 720000, Money -: -420000, Money Total: 300000
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 702000, Money -: -480000, Money Total: 222000
+Base Bet: 100, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 720000, Money -: 480000, Total Money: 120000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 3.94826e+6, Money -: -2.94575e+6, Money Total: 1.00251e+6
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 371880, Money -: -295300, Money Total: 76580
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 390375, Money -: -304250, Money Total: 86125
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 412560, Money -: -271800, Money Total: 140760
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 427680, Money -: -340200, Money Total: 87480
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 563760, Money -: -394200, Money Total: 169560
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 756000, Money -: -620000, Money Total: 136000
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 1.026e+6, Money -: -720000, Money Total: 306000
 
-Base Bet: 100, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 180000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 2.83469e+6, Money -: -1.60765e+6, Money Total: 1.22704e+6
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 468270, Money -: -269200, Money Total: 199070
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 393975, Money -: -235250, Money Total: 158725
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 339660, Money -: -187200, Money Total: 152460
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 328860, Money -: -196200, Money Total: 132660
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 349920, Money -: -199800, Money Total: 150120
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 414000, Money -: -280000, Money Total: 134000
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 540000, Money -: -240000, Money Total: 300000
+Base Bet: 100, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 780000, Money -: 420000, Total Money: 180000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 2.82879e+6, Money -: -2.1501e+6, Money Total: 678690
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 444870, Money -: -277300, Money Total: 167570
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 399600, Money -: -249000, Money Total: 150600
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 356940, Money -: -201000, Money Total: 155940
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 348300, Money -: -216000, Money Total: 132300
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 379080, Money -: -226800, Money Total: 152280
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 414000, Money -: -380000, Money Total: 34000
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 486000, Money -: -600000, Money Total: -114000
 
-Base Bet: 100, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 240000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 2.09799e+6, Money -: -1.0844e+6, Money Total: 1.01359e+6
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 541440, Money -: -249000, Money Total: 292440
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 399150, Money -: -179000, Money Total: 220150
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 282960, Money -: -115200, Money Total: 167760
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 200880, Money -: -122400, Money Total: 78480
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 223560, Money -: -118800, Money Total: 104760
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 288000, Money -: -120000, Money Total: 168000
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 162000, Money -: -180000, Money Total: -18000
+Base Bet: 100, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 840000, Money -: 360000, Total Money: 240000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 2.31219e+6, Money -: -1.21665e+6, Money Total: 1.09554e+6
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 517770, Money -: -257400, Money Total: 260370
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 405900, Money -: -192250, Money Total: 213650
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 292140, Money -: -136800, Money Total: 155340
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 255960, Money -: -126000, Money Total: 129960
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 228420, Money -: -124200, Money Total: 104220
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 234000, Money -: -200000, Money Total: 34000
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 378000, Money -: -180000, Money Total: 198000
 
-Base Bet: 100, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 300000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 1.71329e+6, Money -: -653900, Money Total: 1.05939e+6
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 615600, Money -: -224500, Money Total: 391100
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 389025, Money -: -129000, Money Total: 260025
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 221400, Money -: -63600, Money Total: 157800
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 121500, Money -: -55800, Money Total: 65700
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 77760, Money -: -81000, Money Total: -3240
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 234000, Money -: -40000, Money Total: 194000
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 54000, Money -: -60000, Money Total: -6000
+Base Bet: 100, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 900000, Money -: 300000, Total Money: 300000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 1.74807e+6, Money -: -601550, Money Total: 1.14652e+6
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 599670, Money -: -229300, Money Total: 370370
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 390600, Money -: -139250, Money Total: 251350
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 222480, Money -: -87000, Money Total: 135480
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 174960, Money -: -66600, Money Total: 108360
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 126360, Money -: -59400, Money Total: 66960
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 180000, Money -: -20000, Money Total: 160000
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 54000, Money -: 0, Money Total: 54000
 
-Base Bet: 100, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 360000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 1.46255e+6, Money -: -391050, Money Total: 1.0715e+6
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 693270, Money -: -192800, Money Total: 500470
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 352575, Money -: -90250, Money Total: 262325
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 165780, Money -: -32400, Money Total: 133380
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 58320, Money -: -32400, Money Total: 25920
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 48600, Money -: -43200, Money Total: 5400
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 144000, Money -: 0, Money Total: 144000
+Base Bet: 100, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 960000, Money -: 240000, Total Money: 360000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 1.43379e+6, Money -: -388750, Money Total: 1.04504e+6
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 685800, Money -: -195100, Money Total: 490700
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 355950, Money -: -92250, Money Total: 263700
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 151740, Money -: -52800, Money Total: 98940
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 113400, Money -: -32400, Money Total: 81000
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 72900, Money -: -16200, Money Total: 56700
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 54000, Money -: 0, Money Total: 54000
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 420000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 1.26698e+6, Money -: -239550, Money Total: 1.02743e+6
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 790650, Money -: -148400, Money Total: 642250
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 286425, Money -: -52750, Money Total: 233675
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 98820, Money -: -16800, Money Total: 82020
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 35640, Money -: -10800, Money Total: 24840
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 19440, Money -: -10800, Money Total: 8640
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 36000, Money -: 0, Money Total: 36000
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet: 100, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 480000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 1.17122e+6, Money -: -137500, Money Total: 1.03372e+6
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 885870, Money -: -102900, Money Total: 782970
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 211725, Money -: -22000, Money Total: 189725
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 42660, Money -: -5400, Money Total: 37260
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 12960, Money -: -1800, Money Total: 11160
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -5400, Money Total: -5400
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 18000, Money -: 0, Money Total: 18000
-Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
-
-Base Bet: 100, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 540000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 1.11141e+6, Money -: -61200, Money Total: 1.05021e+6
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 980910, Money -: -53600, Money Total: 927310
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 114300, Money -: -7000, Money Total: 107300
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 14580, Money -: -600, Money Total: 13980
-Step: 4, Total bets: 1, +: 1, -: 0, Money +: 1620, Money -: 0, Money Total: 1620
-Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Base Bet: 100, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.02e+6, Money -: 180000, Total Money: 420000
+Total Bets: 12000, +: 10186, -: 1814, Money +: 1.24646e+6, Money -: -239650, Money Total: 1.00681e+6
+Step: 1, Total bets: 10186, +: 8650, -: 1536, Money +: 778500, Money -: -153600, Money Total: 624900
+Step: 2, Total bets: 1536, +: 1295, -: 241, Money +: 291375, Money -: -60250, Money Total: 231125
+Step: 3, Total bets: 241, +: 207, -: 34, Money +: 111780, Money -: -20400, Money Total: 91380
+Step: 4, Total bets: 34, +: 31, -: 3, Money +: 50220, Money -: -5400, Money Total: 44820
+Step: 5, Total bets: 3, +: 3, -: 0, Money +: 14580, Money -: 0, Money Total: 14580
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.4, 3, 3, 3.7037, 3)
-Gain Without Martin: 600000.00
+Base Bet: 100, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.08e+6, Money -: 120000, Total Money: 480000
+Total Bets: 12000, +: 10803, -: 1197, Money +: 1.1624e+6, Money -: -141150, Money Total: 1.02125e+6
+Step: 1, Total bets: 10803, +: 9727, -: 1076, Money +: 875430, Money -: -107600, Money Total: 767830
+Step: 2, Total bets: 1076, +: 961, -: 115, Money +: 216225, Money -: -28750, Money Total: 187475
+Step: 3, Total bets: 115, +: 110, -: 5, Money +: 59400, Money -: -3000, Money Total: 56400
+Step: 4, Total bets: 5, +: 4, -: 1, Money +: 6480, Money -: -1800, Money Total: 4680
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 4860, Money -: 0, Money Total: 4860
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 100, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.14e+6, Money -: 60000, Total Money: 540000
+Total Bets: 12000, +: 11404, -: 596, Money +: 1.1174e+6, Money -: -66950, Money Total: 1.05045e+6
+Step: 1, Total bets: 11404, +: 10842, -: 562, Money +: 975780, Money -: -56200, Money Total: 919580
+Step: 2, Total bets: 562, +: 531, -: 31, Money +: 119475, Money -: -7750, Money Total: 111725
+Step: 3, Total bets: 31, +: 29, -: 2, Money +: 15660, Money -: -1200, Money Total: 14460
+Step: 4, Total bets: 2, +: 1, -: 1, Money +: 1620, Money -: -1800, Money Total: -180
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 4860, Money -: 0, Money Total: 4860
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 100, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.2e+6, Money -: 0, Total Money: 600000
 Total Bets: 12000, +: 12000, -: 0, Money +: 1.08e+6, Money -: 0, Money Total: 1.08e+6
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 1.08e+6, Money -: 0, Money Total: 1.08e+6
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
@@ -623,120 +623,368 @@ Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 ****************************************************************************************
 BASE BET: 100, FIX BET FACTORS
 ****************************************************************************************
-Base Bet: 100, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 0.00
-Total Bets: 12000, +: 6105, -: 5895, Money +: 4.00093e+6, Money -: -4.05972e+6, Money Total: -58789.7
-Step: 1, Total bets: 6142, +: 3126, -: 3016, Money +: 281340, Money -: -301600, Money Total: -20260
-Step: 2, Total bets: 3016, +: 1539, -: 1477, Money +: 346275, Money -: -369250, Money Total: -22975
-Step: 3, Total bets: 1477, +: 727, -: 750, Money +: 408938, Money -: -468750, Money Total: -59812.5
-Step: 4, Total bets: 750, +: 388, -: 362, Money +: 545625, Money -: -565625, Money Total: -20000
-Step: 5, Total bets: 362, +: 188, -: 174, Money +: 660938, Money -: -679688, Money Total: -18750
-Step: 6, Total bets: 174, +: 95, -: 79, Money +: 834961, Money -: -771484, Money Total: 63476.6
-Step: 7, Total bets: 79, +: 42, -: 37, Money +: 922852, Money -: -903320, Money Total: 19531.3
+Base Bet: 100, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 600000, Money -: 600000, Total Money: 0
+Total Bets: 12000, +: 5887, -: 6113, Money +: 4.24606e+6, Money -: -4.58091e+6, Money Total: -334859
+Step: 1, Total bets: 5933, +: 2903, -: 3030, Money +: 261270, Money -: -303000, Money Total: -41730
+Step: 2, Total bets: 3029, +: 1435, -: 1594, Money +: 322875, Money -: -398500, Money Total: -75625
+Step: 3, Total bets: 1594, +: 821, -: 773, Money +: 461813, Money -: -483125, Money Total: -21312.5
+Step: 4, Total bets: 773, +: 390, -: 383, Money +: 548438, Money -: -598438, Money Total: -50000
+Step: 5, Total bets: 383, +: 193, -: 190, Money +: 678516, Money -: -742188, Money Total: -63671.9
+Step: 6, Total bets: 190, +: 92, -: 98, Money +: 808594, Money -: -957031, Money Total: -148438
+Step: 7, Total bets: 98, +: 53, -: 45, Money +: 1.16455e+6, Money -: -1.09863e+6, Money Total: 65918
 
-Base Bet: 100, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 60000.00
-Total Bets: 12000, +: 6697, -: 5303, Money +: 3.25864e+6, Money -: -2.53607e+6, Money Total: 722572
-Step: 1, Total bets: 6711, +: 3737, -: 2974, Money +: 336330, Money -: -297400, Money Total: 38930
-Step: 2, Total bets: 2974, +: 1664, -: 1310, Money +: 374400, Money -: -327500, Money Total: 46900
-Step: 3, Total bets: 1310, +: 714, -: 596, Money +: 401625, Money -: -372500, Money Total: 29125
-Step: 4, Total bets: 596, +: 330, -: 266, Money +: 464063, Money -: -415625, Money Total: 48437.5
-Step: 5, Total bets: 266, +: 161, -: 105, Money +: 566016, Money -: -410156, Money Total: 155859
-Step: 6, Total bets: 105, +: 67, -: 38, Money +: 588867, Money -: -371094, Money Total: 217773
-Step: 7, Total bets: 38, +: 24, -: 14, Money +: 527344, Money -: -341797, Money Total: 185547
+Base Bet: 100, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 660000, Money -: 540000, Total Money: 60000
+Total Bets: 12000, +: 6459, -: 5541, Money +: 3.50716e+6, Money -: -3.14236e+6, Money Total: 364801
+Step: 1, Total bets: 6484, +: 3479, -: 3005, Money +: 313110, Money -: -300500, Money Total: 12610
+Step: 2, Total bets: 3004, +: 1595, -: 1409, Money +: 358875, Money -: -352250, Money Total: 6625
+Step: 3, Total bets: 1409, +: 785, -: 624, Money +: 441563, Money -: -390000, Money Total: 51562.5
+Step: 4, Total bets: 624, +: 329, -: 295, Money +: 462656, Money -: -460938, Money Total: 1718.75
+Step: 5, Total bets: 295, +: 168, -: 127, Money +: 590625, Money -: -496094, Money Total: 94531.3
+Step: 6, Total bets: 127, +: 70, -: 57, Money +: 615234, Money -: -556641, Money Total: 58593.8
+Step: 7, Total bets: 57, +: 33, -: 24, Money +: 725098, Money -: -585938, Money Total: 139160
 
-Base Bet: 100, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 120000.00
-Total Bets: 12000, +: 7318, -: 4682, Money +: 2.57494e+6, Money -: -1.74448e+6, Money Total: 830456
-Step: 1, Total bets: 7326, +: 4461, -: 2865, Money +: 401490, Money -: -286500, Money Total: 114990
-Step: 2, Total bets: 2865, +: 1739, -: 1126, Money +: 391275, Money -: -281500, Money Total: 109775
-Step: 3, Total bets: 1126, +: 698, -: 428, Money +: 392625, Money -: -267500, Money Total: 125125
-Step: 4, Total bets: 428, +: 255, -: 173, Money +: 358594, Money -: -270313, Money Total: 88281.3
-Step: 5, Total bets: 173, +: 112, -: 61, Money +: 393750, Money -: -238281, Money Total: 155469
-Step: 6, Total bets: 61, +: 40, -: 21, Money +: 351563, Money -: -205078, Money Total: 146484
-Step: 7, Total bets: 21, +: 13, -: 8, Money +: 285645, Money -: -195313, Money Total: 90332
+Base Bet: 100, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 720000, Money -: 480000, Total Money: 120000
+Total Bets: 12000, +: 7072, -: 4928, Money +: 2.75769e+6, Money -: -2.05885e+6, Money Total: 698842
+Step: 1, Total bets: 7085, +: 4132, -: 2953, Money +: 371880, Money -: -295300, Money Total: 76580
+Step: 2, Total bets: 2952, +: 1735, -: 1217, Money +: 390375, Money -: -304250, Money Total: 86125
+Step: 3, Total bets: 1217, +: 764, -: 453, Money +: 429750, Money -: -283125, Money Total: 146625
+Step: 4, Total bets: 453, +: 264, -: 189, Money +: 371250, Money -: -295313, Money Total: 75937.5
+Step: 5, Total bets: 189, +: 116, -: 73, Money +: 407813, Money -: -285156, Money Total: 122656
+Step: 6, Total bets: 73, +: 42, -: 31, Money +: 369141, Money -: -302734, Money Total: 66406.3
+Step: 7, Total bets: 31, +: 19, -: 12, Money +: 417480, Money -: -292969, Money Total: 124512
 
-Base Bet: 100, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 180000.00
-Total Bets: 12000, +: 7891, -: 4109, Money +: 2.17653e+6, Money -: -1.24867e+6, Money Total: 927858
-Step: 1, Total bets: 7895, +: 5203, -: 2692, Money +: 468270, Money -: -269200, Money Total: 199070
-Step: 2, Total bets: 2692, +: 1751, -: 941, Money +: 393975, Money -: -235250, Money Total: 158725
-Step: 3, Total bets: 941, +: 629, -: 312, Money +: 353813, Money -: -195000, Money Total: 158813
-Step: 4, Total bets: 312, +: 203, -: 109, Money +: 285469, Money -: -170313, Money Total: 115156
-Step: 5, Total bets: 109, +: 72, -: 37, Money +: 253125, Money -: -144531, Money Total: 108594
-Step: 6, Total bets: 37, +: 23, -: 14, Money +: 202148, Money -: -136719, Money Total: 65429.7
-Step: 7, Total bets: 14, +: 10, -: 4, Money +: 219727, Money -: -97656.3, Money Total: 122070
+Base Bet: 100, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 780000, Money -: 420000, Total Money: 180000
+Total Bets: 12000, +: 7705, -: 4295, Money +: 2.19275e+6, Money -: -1.51693e+6, Money Total: 675822
+Step: 1, Total bets: 7716, +: 4943, -: 2773, Money +: 444870, Money -: -277300, Money Total: 167570
+Step: 2, Total bets: 2772, +: 1776, -: 996, Money +: 399600, Money -: -249000, Money Total: 150600
+Step: 3, Total bets: 996, +: 661, -: 335, Money +: 371813, Money -: -209375, Money Total: 162438
+Step: 4, Total bets: 335, +: 215, -: 120, Money +: 302344, Money -: -187500, Money Total: 114844
+Step: 5, Total bets: 120, +: 78, -: 42, Money +: 274219, Money -: -164063, Money Total: 110156
+Step: 6, Total bets: 42, +: 23, -: 19, Money +: 202148, Money -: -185547, Money Total: 16601.6
+Step: 7, Total bets: 19, +: 9, -: 10, Money +: 197754, Money -: -244141, Money Total: -46386.7
 
-Base Bet: 100, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 240000.00
-Total Bets: 12000, +: 8503, -: 3497, Money +: 1.77798e+6, Money -: -872023, Money Total: 905953
-Step: 1, Total bets: 8506, +: 6016, -: 2490, Money +: 541440, Money -: -249000, Money Total: 292440
-Step: 2, Total bets: 2490, +: 1774, -: 716, Money +: 399150, Money -: -179000, Money Total: 220150
-Step: 3, Total bets: 716, +: 524, -: 192, Money +: 294750, Money -: -120000, Money Total: 174750
-Step: 4, Total bets: 192, +: 124, -: 68, Money +: 174375, Money -: -106250, Money Total: 68125
-Step: 5, Total bets: 68, +: 46, -: 22, Money +: 161719, Money -: -85937.5, Money Total: 75781.3
-Step: 6, Total bets: 22, +: 16, -: 6, Money +: 140625, Money -: -58593.8, Money Total: 82031.3
-Step: 7, Total bets: 6, +: 3, -: 3, Money +: 65918, Money -: -73242.2, Money Total: -7324.22
+Base Bet: 100, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 840000, Money -: 360000, Total Money: 240000
+Total Bets: 12000, +: 8323, -: 3677, Money +: 1.88347e+6, Money -: -962267, Money Total: 921204
+Step: 1, Total bets: 8327, +: 5753, -: 2574, Money +: 517770, Money -: -257400, Money Total: 260370
+Step: 2, Total bets: 2573, +: 1804, -: 769, Money +: 405900, Money -: -192250, Money Total: 213650
+Step: 3, Total bets: 769, +: 541, -: 228, Money +: 304313, Money -: -142500, Money Total: 161813
+Step: 4, Total bets: 228, +: 158, -: 70, Money +: 222188, Money -: -109375, Money Total: 112813
+Step: 5, Total bets: 70, +: 47, -: 23, Money +: 165234, Money -: -89843.8, Money Total: 75390.6
+Step: 6, Total bets: 23, +: 13, -: 10, Money +: 114258, Money -: -97656.3, Money Total: 16601.6
+Step: 7, Total bets: 10, +: 7, -: 3, Money +: 153809, Money -: -73242.2, Money Total: 80566.4
 
-Base Bet: 100, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 300000.00
-Total Bets: 12000, +: 9084, -: 2916, Money +: 1.5332e+6, Money -: -570727, Money Total: 962473
-Step: 1, Total bets: 9085, +: 6840, -: 2245, Money +: 615600, Money -: -224500, Money Total: 391100
-Step: 2, Total bets: 2245, +: 1729, -: 516, Money +: 389025, Money -: -129000, Money Total: 260025
-Step: 3, Total bets: 516, +: 410, -: 106, Money +: 230625, Money -: -66250, Money Total: 164375
-Step: 4, Total bets: 106, +: 75, -: 31, Money +: 105469, Money -: -48437.5, Money Total: 57031.3
-Step: 5, Total bets: 31, +: 16, -: 15, Money +: 56250, Money -: -58593.8, Money Total: -2343.75
-Step: 6, Total bets: 15, +: 13, -: 2, Money +: 114258, Money -: -19531.3, Money Total: 94726.6
-Step: 7, Total bets: 2, +: 1, -: 1, Money +: 21972.7, Money -: -24414.1, Money Total: -2441.41
+Base Bet: 100, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 900000, Money -: 300000, Total Money: 300000
+Total Bets: 12000, +: 8956, -: 3044, Money +: 1.57516e+6, Money -: -569722, Money Total: 1.00544e+6
+Step: 1, Total bets: 8956, +: 6663, -: 2293, Money +: 599670, Money -: -229300, Money Total: 370370
+Step: 2, Total bets: 2293, +: 1736, -: 557, Money +: 390600, Money -: -139250, Money Total: 251350
+Step: 3, Total bets: 557, +: 412, -: 145, Money +: 231750, Money -: -90625, Money Total: 141125
+Step: 4, Total bets: 145, +: 108, -: 37, Money +: 151875, Money -: -57812.5, Money Total: 94062.5
+Step: 5, Total bets: 37, +: 26, -: 11, Money +: 91406.3, Money -: -42968.8, Money Total: 48437.5
+Step: 6, Total bets: 11, +: 10, -: 1, Money +: 87890.6, Money -: -9765.63, Money Total: 78125
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 21972.7, Money -: 0, Money Total: 21972.7
 
-Base Bet: 100, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 360000.00
-Total Bets: 12000, +: 9631, -: 2369, Money +: 1.37463e+6, Money -: -376175, Money Total: 998451
-Step: 1, Total bets: 9631, +: 7703, -: 1928, Money +: 693270, Money -: -192800, Money Total: 500470
-Step: 2, Total bets: 1928, +: 1567, -: 361, Money +: 352575, Money -: -90250, Money Total: 262325
-Step: 3, Total bets: 361, +: 307, -: 54, Money +: 172688, Money -: -33750, Money Total: 138938
-Step: 4, Total bets: 54, +: 36, -: 18, Money +: 50625, Money -: -28125, Money Total: 22500
-Step: 5, Total bets: 18, +: 10, -: 8, Money +: 35156.3, Money -: -31250, Money Total: 3906.25
-Step: 6, Total bets: 8, +: 8, -: 0, Money +: 70312.5, Money -: 0, Money Total: 70312.5
+Base Bet: 100, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 960000, Money -: 240000, Total Money: 360000
+Total Bets: 12000, +: 9571, -: 2429, Money +: 1.37735e+6, Money -: -382194, Money Total: 995158
+Step: 1, Total bets: 9571, +: 7620, -: 1951, Money +: 685800, Money -: -195100, Money Total: 490700
+Step: 2, Total bets: 1951, +: 1582, -: 369, Money +: 355950, Money -: -92250, Money Total: 263700
+Step: 3, Total bets: 369, +: 281, -: 88, Money +: 158063, Money -: -55000, Money Total: 103063
+Step: 4, Total bets: 88, +: 70, -: 18, Money +: 98437.5, Money -: -28125, Money Total: 70312.5
+Step: 5, Total bets: 18, +: 15, -: 3, Money +: 52734.4, Money -: -11718.8, Money Total: 41015.6
+Step: 6, Total bets: 3, +: 3, -: 0, Money +: 26367.2, Money -: 0, Money Total: 26367.2
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 420000.00
-Total Bets: 12000, +: 10269, -: 1731, Money +: 1.24259e+6, Money -: -235838, Money Total: 1.00675e+6
-Step: 1, Total bets: 10269, +: 8785, -: 1484, Money +: 790650, Money -: -148400, Money Total: 642250
-Step: 2, Total bets: 1484, +: 1273, -: 211, Money +: 286425, Money -: -52750, Money Total: 233675
-Step: 3, Total bets: 211, +: 183, -: 28, Money +: 102938, Money -: -17500, Money Total: 85437.5
-Step: 4, Total bets: 28, +: 22, -: 6, Money +: 30937.5, Money -: -9375, Money Total: 21562.5
-Step: 5, Total bets: 6, +: 4, -: 2, Money +: 14062.5, Money -: -7812.5, Money Total: 6250
-Step: 6, Total bets: 2, +: 2, -: 0, Money +: 17578.1, Money -: 0, Money Total: 17578.1
+Base Bet: 100, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.02e+6, Money -: 180000, Total Money: 420000
+Total Bets: 12000, +: 10218, -: 1782, Money +: 1.23071e+6, Money -: -230438, Money Total: 1.00027e+6
+Step: 1, Total bets: 10218, +: 8703, -: 1515, Money +: 783270, Money -: -151500, Money Total: 631770
+Step: 2, Total bets: 1515, +: 1278, -: 237, Money +: 287550, Money -: -59250, Money Total: 228300
+Step: 3, Total bets: 237, +: 208, -: 29, Money +: 117000, Money -: -18125, Money Total: 98875
+Step: 4, Total bets: 29, +: 28, -: 1, Money +: 39375, Money -: -1562.5, Money Total: 37812.5
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 3515.63, Money -: 0, Money Total: 3515.63
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 480000.00
-Total Bets: 12000, +: 10872, -: 1128, Money +: 1.16207e+6, Money -: -135994, Money Total: 1.02608e+6
-Step: 1, Total bets: 10872, +: 9843, -: 1029, Money +: 885870, Money -: -102900, Money Total: 782970
-Step: 2, Total bets: 1029, +: 941, -: 88, Money +: 211725, Money -: -22000, Money Total: 189725
-Step: 3, Total bets: 88, +: 79, -: 9, Money +: 44437.5, Money -: -5625, Money Total: 38812.5
-Step: 4, Total bets: 9, +: 8, -: 1, Money +: 11250, Money -: -1562.5, Money Total: 9687.5
-Step: 5, Total bets: 1, +: 0, -: 1, Money +: 0, Money -: -3906.25, Money Total: -3906.25
-Step: 6, Total bets: 1, +: 1, -: 0, Money +: 8789.06, Money -: 0, Money Total: 8789.06
+Base Bet: 100, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.08e+6, Money -: 120000, Total Money: 480000
+Total Bets: 12000, +: 10793, -: 1207, Money +: 1.16358e+6, Money -: -142375, Money Total: 1.0212e+6
+Step: 1, Total bets: 10793, +: 9708, -: 1085, Money +: 873720, Money -: -108500, Money Total: 765220
+Step: 2, Total bets: 1085, +: 972, -: 113, Money +: 218700, Money -: -28250, Money Total: 190450
+Step: 3, Total bets: 113, +: 104, -: 9, Money +: 58500, Money -: -5625, Money Total: 52875
+Step: 4, Total bets: 9, +: 9, -: 0, Money +: 12656.3, Money -: 0, Money Total: 12656.3
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 540000.00
-Total Bets: 12000, +: 11435, -: 565, Money +: 1.1118e+6, Money -: -61225, Money Total: 1.05058e+6
-Step: 1, Total bets: 11435, +: 10899, -: 536, Money +: 980910, Money -: -53600, Money Total: 927310
-Step: 2, Total bets: 536, +: 508, -: 28, Money +: 114300, Money -: -7000, Money Total: 107300
-Step: 3, Total bets: 28, +: 27, -: 1, Money +: 15187.5, Money -: -625, Money Total: 14562.5
+Base Bet: 100, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.14e+6, Money -: 60000, Total Money: 540000
+Total Bets: 12000, +: 11404, -: 596, Money +: 1.1136e+6, Money -: -64625, Money Total: 1.04898e+6
+Step: 1, Total bets: 11404, +: 10839, -: 565, Money +: 975510, Money -: -56500, Money Total: 919010
+Step: 2, Total bets: 565, +: 535, -: 30, Money +: 120375, Money -: -7500, Money Total: 112875
+Step: 3, Total bets: 30, +: 29, -: 1, Money +: 16312.5, Money -: -625, Money Total: 15687.5
 Step: 4, Total bets: 1, +: 1, -: 0, Money +: 1406.25, Money -: 0, Money Total: 1406.25
 Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 
-Base Bet: 100, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: QVector(2.5, 2.5, 2.5, 2.5, 2.5, 2.5)
-Gain Without Martin: 600000.00
+Base Bet: 100, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.2e+6, Money -: 0, Total Money: 600000
 Total Bets: 12000, +: 12000, -: 0, Money +: 1.08e+6, Money -: 0, Money Total: 1.08e+6
 Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 1.08e+6, Money -: 0, Money Total: 1.08e+6
+Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 3, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 4, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+****************************************************************************************
+BASE BET: 300, FLOW BET FACTORS
+****************************************************************************************
+Base Bet: 300, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.8e+6, Money -: 1.8e+6, Total Money: 0
+Total Bets: 12000, +: 6014, -: 5986, Money +: 2.01567e+7, Money -: -2.38254e+7, Money Total: -3.66869e+6
+Step: 1, Total bets: 6066, +: 3037, -: 3029, Money +: 819990, Money -: -908700, Money Total: -88710
+Step: 2, Total bets: 3029, +: 1511, -: 1518, Money +: 1.01993e+6, Money -: -1.1385e+6, Money Total: -118575
+Step: 3, Total bets: 1518, +: 776, -: 742, Money +: 1.25712e+6, Money -: -1.3356e+6, Money Total: -78480
+Step: 4, Total bets: 742, +: 387, -: 355, Money +: 1.88082e+6, Money -: -1.917e+6, Money Total: -36180
+Step: 5, Total bets: 355, +: 167, -: 188, Money +: 2.43486e+6, Money -: -3.0456e+6, Money Total: -610740
+Step: 6, Total bets: 188, +: 86, -: 102, Money +: 4.644e+6, Money -: -6.12e+6, Money Total: -1.476e+6
+Step: 7, Total bets: 102, +: 50, -: 52, Money +: 8.1e+6, Money -: -9.36e+6, Money Total: -1.26e+6
+
+Base Bet: 300, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 1.98e+6, Money -: 1.62e+6, Total Money: 180000
+Total Bets: 12000, +: 6648, -: 5352, Money +: 1.58549e+7, Money -: -1.33362e+7, Money Total: 2.51874e+6
+Step: 1, Total bets: 6669, +: 3687, -: 2982, Money +: 995490, Money -: -894600, Money Total: 100890
+Step: 2, Total bets: 2982, +: 1642, -: 1340, Money +: 1.10835e+6, Money -: -1.005e+6, Money Total: 103350
+Step: 3, Total bets: 1340, +: 753, -: 587, Money +: 1.21986e+6, Money -: -1.0566e+6, Money Total: 163260
+Step: 4, Total bets: 587, +: 338, -: 249, Money +: 1.64268e+6, Money -: -1.3446e+6, Money Total: 298080
+Step: 5, Total bets: 249, +: 132, -: 117, Money +: 1.92456e+6, Money -: -1.8954e+6, Money Total: 29160
+Step: 6, Total bets: 117, +: 61, -: 56, Money +: 3.294e+6, Money -: -3.36e+6, Money Total: -66000
+Step: 7, Total bets: 56, +: 35, -: 21, Money +: 5.67e+6, Money -: -3.78e+6, Money Total: 1.89e+6
+
+Base Bet: 300, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 2.16e+6, Money -: 1.44e+6, Total Money: 360000
+Total Bets: 12000, +: 7251, -: 4749, Money +: 1.16706e+7, Money -: -8.1798e+6, Money Total: 3.49082e+6
+Step: 1, Total bets: 7261, +: 4370, -: 2891, Money +: 1.1799e+6, Money -: -867300, Money Total: 312600
+Step: 2, Total bets: 2891, +: 1753, -: 1138, Money +: 1.18328e+6, Money -: -853500, Money Total: 329775
+Step: 3, Total bets: 1138, +: 693, -: 445, Money +: 1.12266e+6, Money -: -801000, Money Total: 321660
+Step: 4, Total bets: 445, +: 279, -: 166, Money +: 1.35594e+6, Money -: -896400, Money Total: 459540
+Step: 5, Total bets: 166, +: 98, -: 68, Money +: 1.42884e+6, Money -: -1.1016e+6, Money Total: 327240
+Step: 6, Total bets: 68, +: 37, -: 31, Money +: 1.998e+6, Money -: -1.86e+6, Money Total: 138000
+Step: 7, Total bets: 31, +: 21, -: 10, Money +: 3.402e+6, Money -: -1.8e+6, Money Total: 1.602e+6
+
+Base Bet: 300, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 2.34e+6, Money -: 1.26e+6, Total Money: 540000
+Total Bets: 12000, +: 7848, -: 4152, Money +: 8.34948e+6, Money -: -4.75245e+6, Money Total: 3.59703e+6
+Step: 1, Total bets: 7852, +: 5117, -: 2735, Money +: 1.38159e+6, Money -: -820500, Money Total: 561090
+Step: 2, Total bets: 2735, +: 1794, -: 941, Money +: 1.21095e+6, Money -: -705750, Money Total: 505200
+Step: 3, Total bets: 941, +: 624, -: 317, Money +: 1.01088e+6, Money -: -570600, Money Total: 440280
+Step: 4, Total bets: 317, +: 211, -: 106, Money +: 1.02546e+6, Money -: -572400, Money Total: 453060
+Step: 5, Total bets: 106, +: 70, -: 36, Money +: 1.0206e+6, Money -: -583200, Money Total: 437400
+Step: 6, Total bets: 36, +: 23, -: 13, Money +: 1.242e+6, Money -: -780000, Money Total: 462000
+Step: 7, Total bets: 13, +: 9, -: 4, Money +: 1.458e+6, Money -: -720000, Money Total: 738000
+
+Base Bet: 300, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 2.52e+6, Money -: 1.08e+6, Total Money: 720000
+Total Bets: 12000, +: 8444, -: 3556, Money +: 6.53724e+6, Money -: -2.63145e+6, Money Total: 3.90579e+6
+Step: 1, Total bets: 8444, +: 5925, -: 2519, Money +: 1.59975e+6, Money -: -755700, Money Total: 844050
+Step: 2, Total bets: 2519, +: 1770, -: 749, Money +: 1.19475e+6, Money -: -561750, Money Total: 633000
+Step: 3, Total bets: 749, +: 543, -: 206, Money +: 879660, Money -: -370800, Money Total: 508860
+Step: 4, Total bets: 206, +: 146, -: 60, Money +: 709560, Money -: -324000, Money Total: 385560
+Step: 5, Total bets: 60, +: 44, -: 16, Money +: 641520, Money -: -259200, Money Total: 382320
+Step: 6, Total bets: 16, +: 10, -: 6, Money +: 540000, Money -: -360000, Money Total: 180000
+Step: 7, Total bets: 6, +: 6, -: 0, Money +: 972000, Money -: 0, Money Total: 972000
+
+Base Bet: 300, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 2.7e+6, Money -: 900000, Total Money: 900000
+Total Bets: 12000, +: 9036, -: 2964, Money +: 5.06669e+6, Money -: -1.7193e+6, Money Total: 3.34739e+6
+Step: 1, Total bets: 9036, +: 6783, -: 2253, Money +: 1.83141e+6, Money -: -675900, Money Total: 1.15551e+6
+Step: 2, Total bets: 2253, +: 1697, -: 556, Money +: 1.14548e+6, Money -: -417000, Money Total: 728475
+Step: 3, Total bets: 556, +: 434, -: 122, Money +: 703080, Money -: -219600, Money Total: 483480
+Step: 4, Total bets: 122, +: 98, -: 24, Money +: 476280, Money -: -129600, Money Total: 346680
+Step: 5, Total bets: 24, +: 18, -: 6, Money +: 262440, Money -: -97200, Money Total: 165240
+Step: 6, Total bets: 6, +: 3, -: 3, Money +: 162000, Money -: -180000, Money Total: -18000
+Step: 7, Total bets: 3, +: 3, -: 0, Money +: 486000, Money -: 0, Money Total: 486000
+
+Base Bet: 300, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 2.88e+6, Money -: 720000, Total Money: 1.08e+6
+Total Bets: 12000, +: 9600, -: 2400, Money +: 4.32216e+6, Money -: -1.17105e+6, Money Total: 3.15111e+6
+Step: 1, Total bets: 9600, +: 7677, -: 1923, Money +: 2.07279e+6, Money -: -576900, Money Total: 1.49589e+6
+Step: 2, Total bets: 1923, +: 1530, -: 393, Money +: 1.03275e+6, Money -: -294750, Money Total: 738000
+Step: 3, Total bets: 393, +: 323, -: 70, Money +: 523260, Money -: -126000, Money Total: 397260
+Step: 4, Total bets: 70, +: 61, -: 9, Money +: 296460, Money -: -48600, Money Total: 247860
+Step: 5, Total bets: 9, +: 5, -: 4, Money +: 72900, Money -: -64800, Money Total: 8100
+Step: 6, Total bets: 4, +: 3, -: 1, Money +: 162000, Money -: -60000, Money Total: 102000
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 162000, Money -: 0, Money Total: 162000
+
+Base Bet: 300, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 3.06e+6, Money -: 540000, Total Money: 1.26e+6
+Total Bets: 12000, +: 10218, -: 1782, Money +: 3.70008e+6, Money -: -689850, Money Total: 3.01023e+6
+Step: 1, Total bets: 10218, +: 8703, -: 1515, Money +: 2.34981e+6, Money -: -454500, Money Total: 1.89531e+6
+Step: 2, Total bets: 1515, +: 1278, -: 237, Money +: 862650, Money -: -177750, Money Total: 684900
+Step: 3, Total bets: 237, +: 208, -: 29, Money +: 336960, Money -: -52200, Money Total: 284760
+Step: 4, Total bets: 29, +: 28, -: 1, Money +: 136080, Money -: -5400, Money Total: 130680
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 14580, Money -: 0, Money Total: 14580
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 3.24e+6, Money -: 360000, Total Money: 1.44e+6
+Total Bets: 12000, +: 10793, -: 1207, Money +: 3.48948e+6, Money -: -426450, Money Total: 3.06303e+6
+Step: 1, Total bets: 10793, +: 9708, -: 1085, Money +: 2.62116e+6, Money -: -325500, Money Total: 2.29566e+6
+Step: 2, Total bets: 1085, +: 972, -: 113, Money +: 656100, Money -: -84750, Money Total: 571350
+Step: 3, Total bets: 113, +: 104, -: 9, Money +: 168480, Money -: -16200, Money Total: 152280
+Step: 4, Total bets: 9, +: 9, -: 0, Money +: 43740, Money -: 0, Money Total: 43740
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 3.42e+6, Money -: 180000, Total Money: 1.62e+6
+Total Bets: 12000, +: 11404, -: 596, Money +: 3.3395e+6, Money -: -193800, Money Total: 3.1457e+6
+Step: 1, Total bets: 11404, +: 10839, -: 565, Money +: 2.92653e+6, Money -: -169500, Money Total: 2.75703e+6
+Step: 2, Total bets: 565, +: 535, -: 30, Money +: 361125, Money -: -22500, Money Total: 338625
+Step: 3, Total bets: 30, +: 29, -: 1, Money +: 46980, Money -: -1800, Money Total: 45180
+Step: 4, Total bets: 1, +: 1, -: 0, Money +: 4860, Money -: 0, Money Total: 4860
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.4, 3, 3, 3.7037, 3]
+Gain Without Martin: Money +: 3.6e+6, Money -: 0, Total Money: 1.8e+6
+Total Bets: 12000, +: 12000, -: 0, Money +: 3.24e+6, Money -: 0, Money Total: 3.24e+6
+Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 3.24e+6, Money -: 0, Money Total: 3.24e+6
+Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 3, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 4, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+****************************************************************************************
+BASE BET: 300, FIX BET FACTORS
+****************************************************************************************
+Base Bet: 300, Probability: 0.50, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.8e+6, Money -: 1.8e+6, Total Money: 0
+Total Bets: 12000, +: 6014, -: 5986, Money +: 1.21069e+7, Money -: -1.41025e+7, Money Total: -1.99564e+6
+Step: 1, Total bets: 6066, +: 3037, -: 3029, Money +: 819990, Money -: -908700, Money Total: -88710
+Step: 2, Total bets: 3029, +: 1511, -: 1518, Money +: 1.01993e+6, Money -: -1.1385e+6, Money Total: -118575
+Step: 3, Total bets: 1518, +: 776, -: 742, Money +: 1.3095e+6, Money -: -1.39125e+6, Money Total: -81750
+Step: 4, Total bets: 742, +: 387, -: 355, Money +: 1.63266e+6, Money -: -1.66406e+6, Money Total: -31406.3
+Step: 5, Total bets: 355, +: 167, -: 188, Money +: 1.76133e+6, Money -: -2.20313e+6, Money Total: -441797
+Step: 6, Total bets: 188, +: 86, -: 102, Money +: 2.26758e+6, Money -: -2.98828e+6, Money Total: -720703
+Step: 7, Total bets: 102, +: 50, -: 52, Money +: 3.2959e+6, Money -: -3.80859e+6, Money Total: -512695
+
+Base Bet: 300, Probability: 0.55, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 1.98e+6, Money -: 1.62e+6, Total Money: 180000
+Total Bets: 12000, +: 6648, -: 5352, Money +: 1.01082e+7, Money -: -8.71722e+6, Money Total: 1.39096e+6
+Step: 1, Total bets: 6669, +: 3687, -: 2982, Money +: 995490, Money -: -894600, Money Total: 100890
+Step: 2, Total bets: 2982, +: 1642, -: 1340, Money +: 1.10835e+6, Money -: -1.005e+6, Money Total: 103350
+Step: 3, Total bets: 1340, +: 753, -: 587, Money +: 1.27069e+6, Money -: -1.10063e+6, Money Total: 170063
+Step: 4, Total bets: 587, +: 338, -: 249, Money +: 1.42594e+6, Money -: -1.16719e+6, Money Total: 258750
+Step: 5, Total bets: 249, +: 132, -: 117, Money +: 1.39219e+6, Money -: -1.37109e+6, Money Total: 21093.8
+Step: 6, Total bets: 117, +: 61, -: 56, Money +: 1.6084e+6, Money -: -1.64063e+6, Money Total: -32226.6
+Step: 7, Total bets: 56, +: 35, -: 21, Money +: 2.30713e+6, Money -: -1.53809e+6, Money Total: 769043
+
+Base Bet: 300, Probability: 0.60, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 2.16e+6, Money -: 1.44e+6, Total Money: 360000
+Total Bets: 12000, +: 7251, -: 4749, Money +: 8.1031e+6, Money -: -5.7708e+6, Money Total: 2.3323e+6
+Step: 1, Total bets: 7261, +: 4370, -: 2891, Money +: 1.1799e+6, Money -: -867300, Money Total: 312600
+Step: 2, Total bets: 2891, +: 1753, -: 1138, Money +: 1.18328e+6, Money -: -853500, Money Total: 329775
+Step: 3, Total bets: 1138, +: 693, -: 445, Money +: 1.16944e+6, Money -: -834375, Money Total: 335063
+Step: 4, Total bets: 445, +: 279, -: 166, Money +: 1.17703e+6, Money -: -778125, Money Total: 398906
+Step: 5, Total bets: 166, +: 98, -: 68, Money +: 1.03359e+6, Money -: -796875, Money Total: 236719
+Step: 6, Total bets: 68, +: 37, -: 31, Money +: 975586, Money -: -908203, Money Total: 67382.8
+Step: 7, Total bets: 31, +: 21, -: 10, Money +: 1.38428e+6, Money -: -732422, Money Total: 651855
+
+Base Bet: 300, Probability: 0.65, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 2.34e+6, Money -: 1.26e+6, Total Money: 540000
+Total Bets: 12000, +: 7848, -: 4152, Money +: 6.47368e+6, Money -: -3.7132e+6, Money Total: 2.76048e+6
+Step: 1, Total bets: 7852, +: 5117, -: 2735, Money +: 1.38159e+6, Money -: -820500, Money Total: 561090
+Step: 2, Total bets: 2735, +: 1794, -: 941, Money +: 1.21095e+6, Money -: -705750, Money Total: 505200
+Step: 3, Total bets: 941, +: 624, -: 317, Money +: 1.053e+6, Money -: -594375, Money Total: 458625
+Step: 4, Total bets: 317, +: 211, -: 106, Money +: 890156, Money -: -496875, Money Total: 393281
+Step: 5, Total bets: 106, +: 70, -: 36, Money +: 738281, Money -: -421875, Money Total: 316406
+Step: 6, Total bets: 36, +: 23, -: 13, Money +: 606445, Money -: -380859, Money Total: 225586
+Step: 7, Total bets: 13, +: 9, -: 4, Money +: 593262, Money -: -292969, Money Total: 300293
+
+Base Bet: 300, Probability: 0.70, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 2.52e+6, Money -: 1.08e+6, Total Money: 720000
+Total Bets: 12000, +: 8444, -: 3556, Money +: 5.44999e+6, Money -: -2.34823e+6, Money Total: 3.10176e+6
+Step: 1, Total bets: 8444, +: 5925, -: 2519, Money +: 1.59975e+6, Money -: -755700, Money Total: 844050
+Step: 2, Total bets: 2519, +: 1770, -: 749, Money +: 1.19475e+6, Money -: -561750, Money Total: 633000
+Step: 3, Total bets: 749, +: 543, -: 206, Money +: 916313, Money -: -386250, Money Total: 530063
+Step: 4, Total bets: 206, +: 146, -: 60, Money +: 615938, Money -: -281250, Money Total: 334688
+Step: 5, Total bets: 60, +: 44, -: 16, Money +: 464063, Money -: -187500, Money Total: 276563
+Step: 6, Total bets: 16, +: 10, -: 6, Money +: 263672, Money -: -175781, Money Total: 87890.6
+Step: 7, Total bets: 6, +: 6, -: 0, Money +: 395508, Money -: 0, Money Total: 395508
+
+Base Bet: 300, Probability: 0.75, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 2.7e+6, Money -: 900000, Total Money: 900000
+Total Bets: 12000, +: 9036, -: 2964, Money +: 4.5894e+6, Money -: -1.59235e+6, Money Total: 2.99704e+6
+Step: 1, Total bets: 9036, +: 6783, -: 2253, Money +: 1.83141e+6, Money -: -675900, Money Total: 1.15551e+6
+Step: 2, Total bets: 2253, +: 1697, -: 556, Money +: 1.14548e+6, Money -: -417000, Money Total: 728475
+Step: 3, Total bets: 556, +: 434, -: 122, Money +: 732375, Money -: -228750, Money Total: 503625
+Step: 4, Total bets: 122, +: 98, -: 24, Money +: 413438, Money -: -112500, Money Total: 300938
+Step: 5, Total bets: 24, +: 18, -: 6, Money +: 189844, Money -: -70312.5, Money Total: 119531
+Step: 6, Total bets: 6, +: 3, -: 3, Money +: 79101.6, Money -: -87890.6, Money Total: -8789.06
+Step: 7, Total bets: 3, +: 3, -: 0, Money +: 197754, Money -: 0, Money Total: 197754
+
+Base Bet: 300, Probability: 0.80, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 2.88e+6, Money -: 720000, Total Money: 1.08e+6
+Total Bets: 12000, +: 9600, -: 2400, Money +: 4.1057e+6, Money -: -1.12126e+6, Money Total: 2.98444e+6
+Step: 1, Total bets: 9600, +: 7677, -: 1923, Money +: 2.07279e+6, Money -: -576900, Money Total: 1.49589e+6
+Step: 2, Total bets: 1923, +: 1530, -: 393, Money +: 1.03275e+6, Money -: -294750, Money Total: 738000
+Step: 3, Total bets: 393, +: 323, -: 70, Money +: 545063, Money -: -131250, Money Total: 413813
+Step: 4, Total bets: 70, +: 61, -: 9, Money +: 257344, Money -: -42187.5, Money Total: 215156
+Step: 5, Total bets: 9, +: 5, -: 4, Money +: 52734.4, Money -: -46875, Money Total: 5859.38
+Step: 6, Total bets: 4, +: 3, -: 1, Money +: 79101.6, Money -: -29296.9, Money Total: 49804.7
+Step: 7, Total bets: 1, +: 1, -: 0, Money +: 65918, Money -: 0, Money Total: 65918
+
+Base Bet: 300, Probability: 0.85, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 3.06e+6, Money -: 540000, Total Money: 1.26e+6
+Total Bets: 12000, +: 10218, -: 1782, Money +: 3.69213e+6, Money -: -691313, Money Total: 3.00082e+6
+Step: 1, Total bets: 10218, +: 8703, -: 1515, Money +: 2.34981e+6, Money -: -454500, Money Total: 1.89531e+6
+Step: 2, Total bets: 1515, +: 1278, -: 237, Money +: 862650, Money -: -177750, Money Total: 684900
+Step: 3, Total bets: 237, +: 208, -: 29, Money +: 351000, Money -: -54375, Money Total: 296625
+Step: 4, Total bets: 29, +: 28, -: 1, Money +: 118125, Money -: -4687.5, Money Total: 113438
+Step: 5, Total bets: 1, +: 1, -: 0, Money +: 10546.9, Money -: 0, Money Total: 10546.9
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 0.90, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 3.24e+6, Money -: 360000, Total Money: 1.44e+6
+Total Bets: 12000, +: 10793, -: 1207, Money +: 3.49073e+6, Money -: -427125, Money Total: 3.0636e+6
+Step: 1, Total bets: 10793, +: 9708, -: 1085, Money +: 2.62116e+6, Money -: -325500, Money Total: 2.29566e+6
+Step: 2, Total bets: 1085, +: 972, -: 113, Money +: 656100, Money -: -84750, Money Total: 571350
+Step: 3, Total bets: 113, +: 104, -: 9, Money +: 175500, Money -: -16875, Money Total: 158625
+Step: 4, Total bets: 9, +: 9, -: 0, Money +: 37968.8, Money -: 0, Money Total: 37968.8
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 0.95, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 3.42e+6, Money -: 180000, Total Money: 1.62e+6
+Total Bets: 12000, +: 11404, -: 596, Money +: 3.34081e+6, Money -: -193875, Money Total: 3.14694e+6
+Step: 1, Total bets: 11404, +: 10839, -: 565, Money +: 2.92653e+6, Money -: -169500, Money Total: 2.75703e+6
+Step: 2, Total bets: 565, +: 535, -: 30, Money +: 361125, Money -: -22500, Money Total: 338625
+Step: 3, Total bets: 30, +: 29, -: 1, Money +: 48937.5, Money -: -1875, Money Total: 47062.5
+Step: 4, Total bets: 1, +: 1, -: 0, Money +: 4218.75, Money -: 0, Money Total: 4218.75
+Step: 5, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 6, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+Step: 7, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
+
+Base Bet: 300, Probability: 1.00, Rate: 0.9, Steps: 7, Iterations: 12000, Bet Factors: [2.5, 2.5, 2.5, 2.5, 2.5, 2.5]
+Gain Without Martin: Money +: 3.6e+6, Money -: 0, Total Money: 1.8e+6
+Total Bets: 12000, +: 12000, -: 0, Money +: 3.24e+6, Money -: 0, Money Total: 3.24e+6
+Step: 1, Total bets: 12000, +: 12000, -: 0, Money +: 3.24e+6, Money -: 0, Money Total: 3.24e+6
 Step: 2, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 3, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
 Step: 4, Total bets: 0, +: 0, -: 0, Money +: 0, Money -: 0, Money Total: 0
