@@ -18,3 +18,9 @@ HEADERS += \
     StepList.h \
     Session.h \
     SessionList.h
+
+
+OTHER_FILES += \
+    README.md \
+    LICENSE \
+    RESULTS.txt
