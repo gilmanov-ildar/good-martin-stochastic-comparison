@@ -46,6 +46,11 @@ SessionList::SessionList()
 
     fillList(m_list100_flow, m_flowFactors, iterations, steps, rate, baseBet);
     fillList(m_list100_fix, m_fixFactors, iterations, steps, rate, baseBet);
+
+    baseBet = 300;
+
+    fillList(m_list300_flow, m_flowFactors, iterations, steps, rate, baseBet);
+    fillList(m_list300_fix, m_fixFactors, iterations, steps, rate, baseBet);
 }
 
 void SessionList::run()
@@ -60,6 +65,9 @@ void SessionList::run()
 
     runList(m_list100_flow);
     runList(m_list100_fix);
+
+    runList(m_list300_flow);
+    runList(m_list300_fix);
 
     qInfo().noquote() << "Finish";
 }
@@ -101,6 +109,16 @@ void SessionList::print() const
     qInfo().noquote() << headerTemplateFix.arg(100, 3);
     qInfo().noquote() << rowDelimiter;
     printList(m_list100_fix);
+
+    qInfo().noquote() << rowDelimiter;
+    qInfo().noquote() << headerTemplateFlow.arg(300, 3);
+    qInfo().noquote() << rowDelimiter;
+    printList(m_list300_flow);
+
+    qInfo().noquote() << rowDelimiter;
+    qInfo().noquote() << headerTemplateFix.arg(300, 3);
+    qInfo().noquote() << rowDelimiter;
+    printList(m_list300_fix);
 
     qInfo().noquote() << rowDelimiter;
     qInfo().noquote() << "END TEST RESULTS";

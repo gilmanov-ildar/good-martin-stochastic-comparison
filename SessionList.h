@@ -36,6 +36,9 @@ private:
     QList<Session> m_list100_flow;
     QList<Session> m_list100_fix;
 
+    QList<Session> m_list300_flow;
+    QList<Session> m_list300_fix;
+
     void fillList(QList<Session> &sessionList,
                   const QVector<qreal> &betFactors,
                   const int iterations,
