@@ -74,10 +74,10 @@ void Step::print() const
     qDebug().noquote()
             << QString("Step: %1, Total bets: %2, +: %3, -: %4, Money +: %5, Money -: %6, Money Total: %7")
                .arg(number() + 1)
-               .arg(totalCount())
-               .arg(positiveCount())
-               .arg(negativeCount())
-               .arg(winMoney())
-               .arg(lossMoney())
-               .arg(totalMoney());
+               .arg(totalCount() / 1000)
+               .arg(positiveCount() / 1000)
+               .arg(negativeCount() / 1000)
+               .arg(winMoney() / 1000)
+               .arg(lossMoney() / 1000)
+               .arg(totalMoney() / 1000);
 }

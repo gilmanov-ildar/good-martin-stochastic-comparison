@@ -105,12 +105,12 @@ void StepList::print() const
 {
     qDebug().noquote()
             << QString("Total Bets: %1, +: %2, -: %3, Money +: %4, Money -: %5, Money Total: %6")
-               .arg(totalBets())
-               .arg(positiveBets())
-               .arg(negativeBets())
-               .arg(winMoney())
-               .arg(lossMoney())
-               .arg(totalMoney());
+               .arg(totalBets() / 1000)
+               .arg(positiveBets() / 1000)
+               .arg(negativeBets() / 1000)
+               .arg(winMoney() / 1000)
+               .arg(lossMoney() / 1000)
+               .arg(totalMoney() / 1000);
 
     for(const Step &step : m_list)
     {

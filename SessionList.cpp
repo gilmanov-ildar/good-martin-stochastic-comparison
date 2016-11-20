@@ -27,8 +27,7 @@ SessionList::SessionList()
     m_fixFactors.push_back(2.5);
     m_fixFactors.push_back(2.5);
 
-    //const int iterations = 10 * 1000 * 1000;
-    const int iterations = 12 * 1000;
+    const int iterations = 12 * 1000 * 1000;
     const int steps = 7;
     const qreal rate = 0.9;
 
