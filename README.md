@@ -1,1 +1,1 @@
-# Stochastic comparison of Good Martin methods for loss compensation
+Stochastic comparison of Good Martin methods for loss compensation
