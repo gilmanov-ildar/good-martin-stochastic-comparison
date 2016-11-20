@@ -124,8 +124,10 @@ void Session::print() const
                .arg(betFactorsString);
 
     qInfo().noquote()
-            << QString("Gain Without Martin: %1")
-               .arg(m_iterations * m_baseBet * (m_probability - 50.0) / 100.0, 0, 'f', 2, 0);
+            << QString("Gain Without Martin: Money +: %1, Money -: %2, Total Money: %3")
+               .arg(m_iterations * m_baseBet * (m_probability) / 100.0)
+               .arg(m_iterations * m_baseBet * (100.0 - m_probability) / 100.0, 0)
+               .arg(m_iterations * m_baseBet * (m_probability - 50.0) / 100.0, 0);
 
     m_stepList.print();
 }
