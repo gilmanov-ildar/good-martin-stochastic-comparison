@@ -102,14 +102,26 @@ void Session::run()
 
 void Session::print() const
 {
+    QString betFactorsString;
+
+    for(qreal factor : m_betFactors)
+    {
+        if(!betFactorsString.isEmpty())
+        {
+            betFactorsString.push_back(", ");
+        }
+
+        betFactorsString.push_back(QString::number(factor));
+    }
+
     qInfo().noquote()
-            << QString("Base Bet: %1, Probability: %2, Rate: %3, Steps: %4, Iterations: %5, Bet Factors:")
+            << QString("Base Bet: %1, Probability: %2, Rate: %3, Steps: %4, Iterations: %5, Bet Factors: [%6]")
                .arg(m_baseBet, 3)
                .arg(m_probability / 100.0, 0, 'f', 2, '0')
                .arg(m_rate)
                .arg(m_steps)
                .arg(m_iterations)
-            << m_betFactors;
+               .arg(betFactorsString);
 
     qInfo().noquote()
             << QString("Gain Without Martin: %1")
